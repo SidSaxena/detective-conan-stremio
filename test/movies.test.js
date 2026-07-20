@@ -16,6 +16,34 @@ test('leaves imdbId null when nothing is found', async () => {
   assert.equal(m.imdbId, null);
 });
 
+test('resolves Movie 13 via title-token overlap, not the first Detective Conan-named result', async () => {
+  const recs = [{ movieNumber: 13, title: 'The Raven Chaser', placeAfterEpisode: null }];
+  const stub = () => Promise.resolve({
+    json: () => Promise.resolve({
+      metas: [
+        { id: 'tt_wrong', name: 'Detective Conan: The Darkest Nightmare', releaseInfo: '2016' },
+        { id: 'tt1343046', name: 'Meitantei Conan: Shikkoku no chaser', releaseInfo: '2009' },
+      ],
+    }),
+  });
+  const [m] = await resolveMovies(recs, stub);
+  assert.equal(m.imdbId, 'tt1343046');
+  assert.equal(m.year, '2009');
+});
+
+test('resolves to null when only a false-positive "Conan" title (zero token overlap) matches', async () => {
+  const recs = [{ movieNumber: 24, title: 'Quarter of Silence', placeAfterEpisode: null }];
+  const stub = () => Promise.resolve({
+    json: () => Promise.resolve({
+      metas: [
+        { id: 'tt0070034', name: 'Conan the Barbarian', releaseInfo: '1982' },
+      ],
+    }),
+  });
+  const [m] = await resolveMovies(recs, stub);
+  assert.equal(m.imdbId, null);
+});
+
 test('buildMovieItems drops unresolved and formats placement in the name', () => {
   const items = buildMovieItems([
     { movieNumber: 11, title: 'Jolly Roger in the Deep Azure', placeAfterEpisode: 504, imdbId: 'tt1226256', year: '2007', poster: 'p' },
