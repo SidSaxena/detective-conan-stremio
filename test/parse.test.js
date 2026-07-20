@@ -33,6 +33,12 @@ test('extracts range, intl, manga, arc, tier, chars, special', () => {
 
 test('parses movies with positional placeAfterEpisode', () => {
   const { movies } = parseList(html);
-  assert.equal(movies.length, 1);
-  assert.deepEqual(movies[0], { movieNumber: 11, title: 'Jolly Roger in the Deep Azure', placeAfterEpisode: 504 });
+  assert.equal(movies.length, 2);
+  assert.deepEqual(movies[0], { movieNumber: 1, title: 'The Time-Bombed Skyscraper', placeAfterEpisode: null });
+  assert.deepEqual(movies[1], { movieNumber: 11, title: 'Jolly Roger in the Deep Azure', placeAfterEpisode: 504 });
+});
+
+test('parses non-episode non-movie rows into skipped', () => {
+  const { skipped } = parseList(html);
+  assert.deepEqual(skipped, ['MK 4']);
 });
