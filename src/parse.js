@@ -29,13 +29,16 @@ export function parseList(html) {
         continue;
       }
 
-      const numM = noText.match(NUM_RE);
-      if (!numM) {
+      const parts = noText ? noText.split(',').map(p => p.trim()) : [];
+      const segMatches = parts.length ? parts.map(p => p.match(NUM_RE)) : [];
+      if (!parts.length || segMatches.some(m => !m)) {
         if (noText) skipped.push(noText);
         continue;
       }
-      const start = Number(numM[1]);
-      const end = numM[2] ? Number(numM[2]) : start;
+      const segments = segMatches.map(m => ({
+        start: Number(m[1]),
+        end: m[2] ? Number(m[2]) : Number(m[1]),
+      }));
 
       const leadText = pos.text();
       const intl = (leadText.match(/\[INTL\s*([^\]]+)\]/) || [])[1]?.trim() || null;
@@ -57,8 +60,10 @@ export function parseList(html) {
       const description = $p.text().replace(/\s+/g, ' ').trim();
       const arc = (description.match(/[“"]([^”"]+)[”"]/) || [])[1] || null;
 
-      episodes.push({ start, end, intl, manga, arc, description, tier, chars, special });
-      lastEnd = end;
+      for (const { start, end } of segments) {
+        episodes.push({ start, end, intl, manga, arc, description, tier, chars, special });
+      }
+      lastEnd = segments[segments.length - 1].end;
     }
   }
 

@@ -42,3 +42,20 @@ test('parses non-episode non-movie rows into skipped', () => {
   const { skipped } = parseList(html);
   assert.deepEqual(skipped, ['MK 4']);
 });
+
+test('expands comma-separated episode list cells into one record per segment', () => {
+  const listHtml = '<article><ul id="tab300"><li><p><span class="dc-list-pos"><span class="dc-list-no">301,302,304</span> (manga x):</span> Some case. </p></li><li><p><span class="dc-list-pos"><span class="dc-list-no">861-864,866,867</span> (manga y):</span> Another case. </p></li></ul></article>';
+  const { episodes, skipped } = parseList(listHtml);
+  assert.deepEqual(
+    episodes.map(e => [e.start, e.end]),
+    [[301, 301], [302, 302], [304, 304], [861, 864], [866, 866], [867, 867]],
+  );
+  assert.deepEqual(skipped, []);
+
+  const seg301 = episodes.find(e => e.start === 301);
+  const seg304 = episodes.find(e => e.start === 304);
+  assert.equal(seg301.description, 'Some case.');
+  assert.equal(seg304.description, 'Some case.');
+  assert.equal(seg301.manga, 'x');
+  assert.equal(seg304.manga, 'x');
+});
