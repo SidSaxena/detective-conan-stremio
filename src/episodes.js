@@ -8,11 +8,13 @@ export function videoTitle(rec, n, kitsuTitle) {
 }
 
 export function videoOverview(rec) {
-  let o = rec.description || '';
-  if (rec.special) o += `\n(${rec.special})`;
-  if (rec.manga) o += `\nManga: ${rec.manga}`;
-  if (rec.chars && rec.chars.length) o += `\nFocus: ${rec.chars.join(', ')}`;
-  return o.trim();
+  const bits = [];
+  if (rec.special) bits.push(rec.special);
+  if (rec.manga) bits.push(`Manga ${rec.manga.replace('|', ' · ')}`);
+  if (rec.chars && rec.chars.length) bits.push(`Focus: ${rec.chars.join(', ')}`);
+  let o = (rec.description || '').trim();
+  if (bits.length) o += `\n\n• ${bits.join('\n• ')}`;
+  return o;
 }
 
 export function buildVideos(episodes, titles = new Map()) {

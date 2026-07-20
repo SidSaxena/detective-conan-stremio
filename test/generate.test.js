@@ -22,7 +22,7 @@ test('annotateMovieMarkers appends a Next-movie marker to the placement episode 
     { id: 'kitsu:210:505', episode: 505, overview: otherOverview },
   ];
   annotateMovieMarkers(videos, [{ movieNumber: 11, title: 'Jolly Roger in the Deep Azure', placeAfterEpisode: 504 }]);
-  assert.match(videos[0].overview, /▶ Next: Movie 11 — Jolly Roger in the Deep Azure/);
+  assert.match(videos[0].overview, /▶ Watch Movie 11 — Jolly Roger in the Deep Azure next/);
   assert.equal(videos[1].overview, otherOverview);
 });
 

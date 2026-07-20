@@ -20,8 +20,9 @@ test('buildVideos expands a range into one video per absolute episode, using the
   assert.equal(first.episode, 491);
   assert.equal(first.title, 'The Red and Black Clash: Suspicion ★Main Plot');
   assert.match(first.overview, /Clash of Red and Black/);
-  assert.match(first.overview, /Manga: 585-590/);
-  assert.match(first.overview, /Focus: Black Organization/);
+  assert.match(first.overview, /\n\n• /);
+  assert.match(first.overview, /• Manga 585-590/);
+  assert.match(first.overview, /• Focus: Black Organization/);
 });
 
 test('buildVideos falls back to rec.arc when the map has no title for that episode number', () => {

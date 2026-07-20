@@ -43,7 +43,7 @@ export function annotateMovieMarkers(videos, resolvedMovies) {
   const byEp = new Map(videos.map(v => [v.episode, v]));
   for (const m of resolvedMovies) {
     const v = byEp.get(m.placeAfterEpisode);
-    if (v) v.overview = `${v.overview}\n▶ Next: Movie ${m.movieNumber} — ${m.title}`;
+    if (v) v.overview = `${v.overview}\n\n▶ Watch Movie ${m.movieNumber} — ${m.title} next`;
   }
   return videos;
 }
