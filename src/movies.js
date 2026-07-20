@@ -22,7 +22,7 @@ export function buildMovieItems(resolved) {
     .map(m => ({
       id: m.imdbId,
       type: 'movie',
-      name: `Movie ${m.movieNumber}: ${m.title}${m.placeAfterEpisode ? ` — watch after Ep ${m.placeAfterEpisode}` : ''}`,
+      name: `Movie ${m.movieNumber}: ${m.title}${m.placeAfterEpisode != null ? ` — watch after Ep ${m.placeAfterEpisode}` : ''}`,
       poster: m.poster || undefined,
       releaseInfo: m.year || undefined,
     }));
