@@ -1,0 +1,14 @@
+{
+  "name": "detective-conan-stremio",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test",
+    "scrape": "node scripts/scrape.js",
+    "build": "node scripts/build.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
