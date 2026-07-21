@@ -1,0 +1,179 @@
+{
+  "metas": [
+    {
+      "id": "tt0131479",
+      "type": "movie",
+      "name": "Movie 1: The Time-Bombed Skyscraper — watch after Ep 96",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGEwMGEwZTctMTcyYS00NDg3LThiM2MtMzMxMzc2MmYxZmVhXkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tt0965649",
+      "type": "movie",
+      "name": "Movie 2: The Fourteenth Target — watch after Ep 162",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGE3ZTJiODQtYjY1My00MDJmLTkxOWItYzE1ZDIyOTA5MmNjXkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tt1067920",
+      "type": "movie",
+      "name": "Movie 3: The Last Wizard of the Century — watch after Ep 178",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzg0NjJhNDktODA0Zi00YjY0LWEwN2UtYzc0YmMxNzNhZmM5XkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt1068773",
+      "type": "movie",
+      "name": "Movie 4: Captured in Her Eyes — watch after Ep 239",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGFjMmM3Y2EtMjEwMC00NzMwLWE0M2QtM2Q4YWI1YTg2YTFiXkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt1073223",
+      "type": "movie",
+      "name": "Movie 5: Countdown to Heaven — watch after Ep 278",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjJhNjZjYjItYjIzYS00NDY0LTlhZDctYWZkY2MyOWU3ZWQxXkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tt0990372",
+      "type": "movie",
+      "name": "Movie 6: The Phantom of Baker Street — watch after Ep 313",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzlkYjcyZTItMzY3NS00MzYzLWIwOTUtMGI3NDc2MmZmMWNiXkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt1133935",
+      "type": "movie",
+      "name": "Movie 7: Crossroad in the Ancient Capital — watch after Ep 345",
+      "poster": "https://m.media-amazon.com/images/M/MV5BY2M0Mzc2ZTctZGI2Mi00Zjk1LTg5MWItMGRmNWNjMDE0ZjdjXkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "tt1133559",
+      "type": "movie",
+      "name": "Movie 8: Magician of the Silver Sky — watch after Ep 387",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGVjNjJiYTMtODE3Yi00OWY4LTgxYjAtNTUwODQwMjI2ODJmXkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt1133936",
+      "type": "movie",
+      "name": "Movie 9: Strategy Above the Depths — watch after Ep 432",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMThjYWZlNjMtYTA4MC00OGE1LTk1MGQtMDNjZDdjM2E0NmQ2XkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt0498536",
+      "type": "movie",
+      "name": "Movie 10: The Private Eyes’ Requiem — watch after Ep 473",
+      "poster": "https://m.media-amazon.com/images/M/MV5BM2VhODIxYWUtYTc1ZS00M2U4LTkxZGEtYTg2NGU4OTM5NTc5XkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt1146290",
+      "type": "movie",
+      "name": "Movie 11: Jolly Roger in the Deep Azure — watch after Ep 504",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGY1YWU1YWQtYzcyZC00ZTkwLWJiYzMtMzg0NDAwNWEwNGFkXkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1155696",
+      "type": "movie",
+      "name": "Movie 12: Full Score of Fear — watch after Ep 517",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGU5OWZjYzktMjVmNy00NWE4LTkyYWUtYjI1ZjlhYzkwODllXkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt1343046",
+      "type": "movie",
+      "name": "Movie 13: The Raven Chaser — watch after Ep 569",
+      "poster": "https://images.metahub.space/poster/small/tt1343046/img",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt1636815",
+      "type": "movie",
+      "name": "Movie 14: The Lost Ship in the Sky — watch after Ep 628",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWIxOGQxZTAtMjE1NC00MzBmLTk2YWQtMTUwYTA3YzI5ZDQ5XkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt1840372",
+      "type": "movie",
+      "name": "Movie 15: Quarter of Silence — watch after Ep 650",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTU4OGU2NjMtMGMwMS00MzlkLTlkOGMtMzdjZmM5YmExZTI5XkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt2131586",
+      "type": "movie",
+      "name": "Movie 16: The Eleventh Striker — watch after Ep 691",
+      "poster": "https://m.media-amazon.com/images/M/MV5BN2E5NTcwOGUtOTkzNC00YjAwLWFkNWQtYWRmMmU5YjQ2YWNhXkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt3303446",
+      "type": "movie",
+      "name": "Movie 17: Private Eye in the Distant Sea — watch after Ep 734",
+      "poster": "https://m.media-amazon.com/images/M/MV5BY2MxM2U1OGYtY2U2YS00MjZjLWE5ZDMtNWM4M2E5YTRkM2Q3XkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt3455204",
+      "type": "movie",
+      "name": "Movie 18: Dimensional Sniper — watch after Ep 783",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGQ5Y2RmZGMtN2I4NS00OWNlLWI1YzAtNjUxNzcwNDA4Y2IxXkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt3737650",
+      "type": "movie",
+      "name": "Movie 19: Sunflowers of Inferno — watch after Ep 815",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzQ2MTgwNzctZjU5Ni00NmVlLTkxMGEtYTMxNDk1YWNjNDhkXkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt4954660",
+      "type": "movie",
+      "name": "Movie 20: The Darkest Nightmare — watch after Ep 867",
+      "poster": "https://m.media-amazon.com/images/M/MV5BN2I3Y2RlOTQtYjUwNy00ZjNkLTgzMjAtYmFkZWY1N2IzYjA3XkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt5692622",
+      "type": "movie",
+      "name": "Movie 21: The Crimson Love Letter — watch after Ep 917",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMmM1NjQ4N2EtOWUyZS00Njc3LWE3MWEtMDQ0MTIwY2IxNTc3XkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt7880466",
+      "type": "movie",
+      "name": "Movie 22: Zero the Enforcer — watch after Ep 942",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGEzZGU2M2ItMTY1My00ZTBkLWExNGUtNjIzYTZiODg0NzEyXkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt9501310",
+      "type": "movie",
+      "name": "Movie 23: The Fist of Blue Sapphire — watch after Ep 1005",
+      "poster": "https://m.media-amazon.com/images/M/MV5BY2Q0NzIxOTItOWUwZi00YjA5LWIxNTgtNGQ5ODYwNWFjMWMxXkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt12093860",
+      "type": "movie",
+      "name": "Movie 24: The Scarlet Bullet — watch after Ep 1046",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzFjOWZkN2UtODk5Yi00NDE5LWIxMTAtMjZhODZkMzYzMmJlXkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt19770970",
+      "type": "movie",
+      "name": "Movie 25: The Bride of Halloween — watch after Ep 1136",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTQ4ZTAyZDAtYjhjMS00MWZjLWI4OGYtYTFkNTEyMjllNzc0XkEyXkFqcGc@._V1_SX250.jpg",
+      "releaseInfo": "2022"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "com.xerblade.dcc.canon",
+  "version": "1.0.0",
+  "name": "Detective Conan — Canon & Movies",
+  "description": "Curated canon/important Detective Conan episodes and movies from the XerBlade list, in watch order. Reuses kitsu:210 stream ids so your existing stream addons resolve untouched.",
+  "logo": "https://artworks.thetvdb.com/banners/v4/series/72454/clearlogo/688c2fbda100f.png",
+  "resources": [
+    "catalog",
+    {
+      "name": "meta",
+      "types": [
+        "series"
+      ],
+      "idPrefixes": [
+        "dcc-conan"
+      ]
+    }
+  ],
+  "types": [
+    "series",
+    "movie"
+  ],
+  "idPrefixes": [
+    "dcc-conan"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "dcc-series",
+      "name": "Detective Conan — Canon"
+    },
+    {
+      "type": "movie",
+      "id": "dcc-movies",
+      "name": "Detective Conan — Movies (watch order)"
+    }
+  ]
+}

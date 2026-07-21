@@ -1,0 +1,3198 @@
+{
+  "meta": {
+    "id": "dcc-conan",
+    "type": "series",
+    "name": "Detective Conan — Canon",
+    "poster": "https://artworks.thetvdb.com/banners/fanart/original/72454-3.jpg",
+    "logo": "https://artworks.thetvdb.com/banners/v4/series/72454/clearlogo/688c2fbda100f.png",
+    "background": "https://artworks.thetvdb.com/banners/fanart/original/72454-3.jpg",
+    "description": "Curated canon/important episodes from the XerBlade list, reusing kitsu:210 stream ids.",
+    "videos": [
+      {
+        "id": "kitsu:210:1",
+        "title": "Roller Coaster Murder Case ★Main Plot",
+        "season": 1,
+        "episode": 1,
+        "overview": "Initial setup. The main characters Edogawa Conan/Kudō Shinichi, Mōri Ran and Kogorō, Professor Agasa, Inspector Megure, Gin, and Vodka all get their introductions, among many other things.\n\n• Manga 1-5 · V1F1-5\n• Focus: Edogawa Conan, Kudō Shinichi, Mōri Ran, Kogorō, Professor Agasa, Inspector Megure, Gin, Vodka"
+      },
+      {
+        "id": "kitsu:210:2",
+        "title": "President's Daughter Kidnapping Case ★Main Plot",
+        "season": 1,
+        "episode": 2,
+        "overview": "Initial setup. The main characters Edogawa Conan/Kudō Shinichi, Mōri Ran and Kogorō, Professor Agasa, Inspector Megure, Gin, and Vodka all get their introductions, among many other things.\n\n• Manga 1-5 · V1F1-5\n• Focus: Edogawa Conan, Kudō Shinichi, Mōri Ran, Kogorō, Professor Agasa, Inspector Megure, Gin, Vodka"
+      },
+      {
+        "id": "kitsu:210:3",
+        "title": "An Idol's Locked Room Murder Case",
+        "season": 1,
+        "episode": 3,
+        "overview": "Character development and some elements introduced for the first time.\n\n• Manga 6-9 · V1F6-9"
+      },
+      {
+        "id": "kitsu:210:4",
+        "title": "City Coded Map Case",
+        "season": 1,
+        "episode": 4,
+        "overview": "Mitsuhiko, Ayumi, and Genta’s first focus episode.\n\n• Manga 36-39 · V4F7-10\n• Focus: Mitsuhiko, Ayumi, Genta"
+      },
+      {
+        "id": "kitsu:210:5",
+        "title": "The Bullet Train Bombing Case",
+        "season": 1,
+        "episode": 5,
+        "overview": "\n\n• Manga 33-35 · V4F4-6*\n• Focus: Gin, Vodka, Gin, Vodka"
+      },
+      {
+        "id": "kitsu:210:7",
+        "title": "Incident Of Monthly Presents And Threats ★Main Plot",
+        "season": 1,
+        "episode": 7,
+        "overview": "Main character development. Marks the first time Ran comes somewhat close to exposing Conan’s identity.\n\n• Manga 26-29 · V3F7-9\n• Focus: Ran, Conan"
+      },
+      {
+        "id": "kitsu:210:10",
+        "title": "Blackmailing A Pro Soccer Player Case",
+        "season": 1,
+        "episode": 10,
+        "overview": "Introduces some minor recurring elements that will be referred to countless times in the future.\n\n• Manga 68-71 · V7F8-V8F1"
+      },
+      {
+        "id": "kitsu:210:11",
+        "title": "Moonlight Sonata Murder Case",
+        "season": 1,
+        "episode": 11,
+        "overview": "Events referenced in some character development in episodes 77-78 later on.\n\n• 1 Hour Special\n• Manga 62-67 · V7F2-7"
+      },
+      {
+        "id": "kitsu:210:12",
+        "title": "Ayumi's Kidnapping Case",
+        "season": 1,
+        "episode": 12,
+        "overview": "Introduces the turbo skateboard and detective badge, as well as makes the Detective Boys into... the Detective Boys.\n\n• Manga 81-83 · V9F1-3\n• Focus: Detective Boys, Detective Boys"
+      },
+      {
+        "id": "kitsu:210:13",
+        "title": "The Strange Person Finding Murder Case ★Main Plot",
+        "season": 1,
+        "episode": 13,
+        "overview": "\n\n• Manga 13-16 · V2F4-7*\n• Focus: Miyano Akemi"
+      },
+      {
+        "id": "kitsu:210:18",
+        "title": "A June Bride Murder Case",
+        "season": 1,
+        "episode": 18,
+        "overview": "Introduces Superintendent Matsumoto.\n\n• Manga 78-80 · V8F8-10\n• Focus: Superintendent Matsumoto"
+      },
+      {
+        "id": "kitsu:210:20",
+        "title": "A Haunted Mansion Murder Case",
+        "season": 1,
+        "episode": 20,
+        "overview": "Introduces the Elasticity Suspenders. The manga version of this case was the first introduction of the Detective Boys.\n\n• Manga 17-19 · V2F8-10\n• Focus: Detective Boys"
+      },
+      {
+        "id": "kitsu:210:27",
+        "title": "Kogoro's Reunion Murder Case (Part 1)",
+        "season": 1,
+        "episode": 27,
+        "overview": "Mōri Kogorō character development.\n\n• Manga 84-86 · V9F4-6\n• Focus: Mōri Kogorō"
+      },
+      {
+        "id": "kitsu:210:28",
+        "title": "Kogoro's Reunion Murder Case (Part 2)",
+        "season": 1,
+        "episode": 28,
+        "overview": "Mōri Kogorō character development.\n\n• Manga 84-86 · V9F4-6\n• Focus: Mōri Kogorō"
+      },
+      {
+        "id": "kitsu:210:32",
+        "title": "Coffee Shop Murder Case",
+        "season": 1,
+        "episode": 32,
+        "overview": "Introduces Kisaki Eri, Ran’s mom.\n\n• Manga 105-107 · V11F5-7\n• Focus: Kisaki Eri, Ran"
+      },
+      {
+        "id": "kitsu:210:34",
+        "title": "Mountain Villa Bandaged Man Murder Case (Part 1)",
+        "season": 1,
+        "episode": 34,
+        "overview": "Suzuki Sonoko development. This case was her first appearance in the manga.\n\n• Manga 40-44 · V5F1-5\n• Focus: Suzuki Sonoko"
+      },
+      {
+        "id": "kitsu:210:35",
+        "title": "Mountain Villa Bandaged Man Murder Case (Part 2)",
+        "season": 1,
+        "episode": 35,
+        "overview": "Suzuki Sonoko development. This case was her first appearance in the manga.\n\n• Manga 40-44 · V5F1-5\n• Focus: Suzuki Sonoko"
+      },
+      {
+        "id": "kitsu:210:43",
+        "title": "Conan Edogawa Kidnapping Case ★Main Plot",
+        "season": 1,
+        "episode": 43,
+        "overview": "Introduces two characters who will have central roles in many main plot events. Also has some Black Organization reference.\n\n• Manga 49-51 · V5F10-V6F1\n• Focus: Black Organization"
+      },
+      {
+        "id": "kitsu:210:48",
+        "title": "Diplomat Murder Case (Part 1) ★Main Plot",
+        "season": 1,
+        "episode": 48,
+        "overview": "Introduces Hattori Heiji. This also marks the first time Conan manages to temporarily return to his original body.\n\n• Manga 92-98 · V10F2-8\n• Focus: Hattori Heiji, Conan"
+      },
+      {
+        "id": "kitsu:210:49",
+        "title": "Diplomat Murder Case (Part 2) ★Main Plot",
+        "season": 1,
+        "episode": 49,
+        "overview": "Introduces Hattori Heiji. This also marks the first time Conan manages to temporarily return to his original body.\n\n• Manga 92-98 · V10F2-8\n• Focus: Hattori Heiji, Conan"
+      },
+      {
+        "id": "kitsu:210:50",
+        "title": "Library Murder Case ★Main Plot",
+        "season": 1,
+        "episode": 50,
+        "overview": "Introduces Hattori Heiji. This also marks the first time Conan manages to temporarily return to his original body.\n\n• Manga 92-98 · V10F2-8\n• Focus: Hattori Heiji, Conan"
+      },
+      {
+        "id": "kitsu:210:54",
+        "title": "Game Company Murder Case ★Main Plot",
+        "season": 1,
+        "episode": 54,
+        "overview": "Some Black Organization stuff.\n\n• Manga 114-116 · V12F4-6\n• Focus: Black Organization"
+      },
+      {
+        "id": "kitsu:210:57",
+        "title": "Holmes Freak Murder Case (Part 1) ★Main Plot",
+        "season": 1,
+        "episode": 57,
+        "overview": "Hattori Heiji major development.\n\n• Manga 117-121 · V12F7-V13F1\n• Focus: Hattori Heiji"
+      },
+      {
+        "id": "kitsu:210:58",
+        "title": "Holmes Freak Murder Case (Part 2) ★Main Plot",
+        "season": 1,
+        "episode": 58,
+        "overview": "Hattori Heiji major development.\n\n• Manga 117-121 · V12F7-V13F1\n• Focus: Hattori Heiji"
+      },
+      {
+        "id": "kitsu:210:76",
+        "title": "Conan vs. Phantom Thief Kid",
+        "season": 1,
+        "episode": 76,
+        "overview": "First appearance of Kaitō Kid in Detective Conan.\n\n• 1 Hour Special\n• Manga 156-159 · V16F6-9\n• Focus: Kaitō Kid"
+      },
+      {
+        "id": "kitsu:210:77",
+        "title": "Distinguished Family's Consecutive Accidental Death Case (Part 1)",
+        "season": 1,
+        "episode": 77,
+        "overview": "Heiji case. Some Conan development.\n\n• Manga 150-153 · V15F10-V16F3\n• Focus: Heiji, Conan"
+      },
+      {
+        "id": "kitsu:210:78",
+        "title": "Distinguished Family's Consecutive Accidental Death Case (Part 2)",
+        "season": 1,
+        "episode": 78,
+        "overview": "Heiji case. Some Conan development.\n\n• Manga 150-153 · V15F10-V16F3\n• Focus: Heiji, Conan"
+      },
+      {
+        "id": "kitsu:210:81",
+        "title": "The Kidnapping of a Popular Artist Case (Part 1)",
+        "season": 1,
+        "episode": 81,
+        "overview": "Voice actor references galore.\n\n• Manga 144-146 · V15F4-6"
+      },
+      {
+        "id": "kitsu:210:82",
+        "title": "The Kidnapping of a Popular Artist Case (Part 2)",
+        "season": 1,
+        "episode": 82,
+        "overview": "Voice actor references galore.\n\n• Manga 144-146 · V15F4-6"
+      },
+      {
+        "id": "kitsu:210:96",
+        "title": "Caught Up with the Great Detective! 2 Murder Cases!",
+        "season": 1,
+        "episode": 96,
+        "overview": "Main character development.\n\n• 2 Hour Special\n• Manga 131-138 · V14F1-8\n\n▶ Watch Movie 1 — The Time-Bombed Skyscraper next"
+      },
+      {
+        "id": "kitsu:210:100",
+        "title": "The Memories of First Love Case (Part 1)",
+        "season": 2,
+        "episode": 100,
+        "overview": "Shinichi case. Main character development.\n\n• Manga 173-175 · V18F3-5\n• Focus: Shinichi"
+      },
+      {
+        "id": "kitsu:210:101",
+        "title": "The Memories of First Love Case (Part 2)",
+        "season": 2,
+        "episode": 101,
+        "overview": "Shinichi case. Main character development.\n\n• Manga 173-175 · V18F3-5\n• Focus: Shinichi"
+      },
+      {
+        "id": "kitsu:210:118",
+        "title": "The Naniwa Serial Murder Case",
+        "season": 2,
+        "episode": 118,
+        "overview": "Heiji case. Introduces Tōyama Kazuha. Builds on the Conan development throughline from 11 and 77-79.\n\n• 1 Hour Special\n• Manga 185-188 · V19F5-8\n• Focus: Heiji, Tōyama Kazuha, Conan"
+      },
+      {
+        "id": "kitsu:210:128",
+        "title": "The Black Organization: 1 Billion Yen Robbery Case ★Main Plot",
+        "season": 2,
+        "episode": 128,
+        "overview": "“The Black Organization: One Billion Yen Robbery Case”\n\n• Manga 13-16 · V2F4-7*"
+      },
+      {
+        "id": "kitsu:210:129",
+        "title": "The Girl from the Black Organization and the University Professor Murder Case ★Main Plot",
+        "season": 2,
+        "episode": 129,
+        "overview": "Introduces Haibara Ai, possibly the second most central character to the overall plot after Conan himself.\n\n• 2 Hour Special\n• Manga 176-181 · V18F6-V19F1\n• Focus: Haibara Ai, Conan"
+      },
+      {
+        "id": "kitsu:210:130",
+        "title": "The Indiscriminate Threatening Stadium Case (Part 1)",
+        "season": 2,
+        "episode": 130,
+        "overview": "Introduces Satō Miwako.\n\n• Manga 189-191 · V19F9-V20F1\n• Focus: Satō Miwako"
+      },
+      {
+        "id": "kitsu:210:131",
+        "title": "The Indiscriminate Threatening Stadium Case (Part 2)",
+        "season": 2,
+        "episode": 131,
+        "overview": "Introduces Satō Miwako.\n\n• Manga 189-191 · V19F9-V20F1\n• Focus: Satō Miwako"
+      },
+      {
+        "id": "kitsu:210:132",
+        "title": "Magic Lover's Murder Case (The Murder)",
+        "season": 2,
+        "episode": 132,
+        "overview": "Kaitō Kid.\n\n• Manga 192-196 · V20F2-6\n• Focus: Kaitō"
+      },
+      {
+        "id": "kitsu:210:133",
+        "title": "Magic Lover's Murder Case (The Suspicion)",
+        "season": 2,
+        "episode": 133,
+        "overview": "Kaitō Kid.\n\n• Manga 192-196 · V20F2-6\n• Focus: Kaitō"
+      },
+      {
+        "id": "kitsu:210:134",
+        "title": "Magic Lover's Murder Case (The Resolution)",
+        "season": 2,
+        "episode": 134,
+        "overview": "Kaitō Kid.\n\n• Manga 192-196 · V20F2-6\n• Focus: Kaitō"
+      },
+      {
+        "id": "kitsu:210:136",
+        "title": "The Old Blue Castle Investigation Case (Part 1)",
+        "season": 2,
+        "episode": 136,
+        "overview": "Character development.\n\n• Manga 200-203 · V20F10-V21F3"
+      },
+      {
+        "id": "kitsu:210:137",
+        "title": "The Old Blue Castle Investigation Case (Part 2)",
+        "season": 2,
+        "episode": 137,
+        "overview": "Character development.\n\n• Manga 200-203 · V20F10-V21F3"
+      },
+      {
+        "id": "kitsu:210:141",
+        "title": "The Night Before the Wedding Locked Room Case (Part 1)",
+        "season": 2,
+        "episode": 141,
+        "overview": "Heiji case.\n\n• Manga 211-214 · V21F11-V22F3\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:142",
+        "title": "The Night Before the Wedding Locked Room Case (Part 2)",
+        "season": 2,
+        "episode": 142,
+        "overview": "Heiji case.\n\n• Manga 211-214 · V21F11-V22F3\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:146",
+        "title": "Metropolitan Police Detective Love Story (Part 1)",
+        "season": 2,
+        "episode": 146,
+        "overview": "“Metropolitan Police Detective Love Story”—Also introduces Miyamoto Yumi.\n\n• Manga 208-210 · V21E8-10\n• Focus: Miyamoto Yumi"
+      },
+      {
+        "id": "kitsu:210:147",
+        "title": "Metropolitan Police Detective Love Story (Part 2)",
+        "season": 2,
+        "episode": 147,
+        "overview": "“Metropolitan Police Detective Love Story”—Also introduces Miyamoto Yumi.\n\n• Manga 208-210 · V21E8-10\n• Focus: Miyamoto Yumi"
+      },
+      {
+        "id": "kitsu:210:153",
+        "title": "Sonoko's Dangerous Summer Story (Part 1)",
+        "season": 2,
+        "episode": 153,
+        "overview": "Introduces Kyōgoku Makoto.\n\n• Manga 219-221 · V22F8-10\n• Focus: Kyōgoku Makoto"
+      },
+      {
+        "id": "kitsu:210:154",
+        "title": "Sonoko's Dangerous Summer Story (Part 2)",
+        "season": 2,
+        "episode": 154,
+        "overview": "Introduces Kyōgoku Makoto.\n\n• Manga 219-221 · V22F8-10\n• Focus: Kyōgoku Makoto"
+      },
+      {
+        "id": "kitsu:210:156",
+        "title": "Metropolitan Police Detective Love Story 2 (Part 1)",
+        "season": 2,
+        "episode": 156,
+        "overview": "“Metropolitan Police Detective Love Story 2”\n\n• Manga 231-233 · V23F10-V24F2"
+      },
+      {
+        "id": "kitsu:210:157",
+        "title": "Metropolitan Police Detective Love Story 2 (Part 2)",
+        "season": 2,
+        "episode": 157,
+        "overview": "“Metropolitan Police Detective Love Story 2”\n\n• Manga 231-233 · V23F10-V24F2"
+      },
+      {
+        "id": "kitsu:210:162",
+        "title": "The Sealed Chamber in the Sky! Jimmy Kudo's First Case",
+        "season": 2,
+        "episode": 162,
+        "overview": "“The Locked Room in the Sky: Kudō Shinichi’s First Case”\n\n• 1 Hour Special\n• Manga 204-207 · V21F4-7\n\n▶ Watch Movie 2 — The Fourteenth Target next"
+      },
+      {
+        "id": "kitsu:210:166",
+        "title": "Tottori Spider Mansion Demon (The Murder)",
+        "season": 2,
+        "episode": 166,
+        "overview": "Heiji case.\n\n• Manga 246-250 · V25F4-8\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:167",
+        "title": "Tottori Spider Mansion Demon (The Suspicion)",
+        "season": 2,
+        "episode": 167,
+        "overview": "Heiji case.\n\n• Manga 246-250 · V25F4-8\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:168",
+        "title": "Tottori Spider Mansion Demon (The Resolution)",
+        "season": 2,
+        "episode": 168,
+        "overview": "Heiji case.\n\n• Manga 246-250 · V25F4-8\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:170",
+        "title": "The Blind Spot in the Darkness (Part 1) ★Main Plot",
+        "season": 2,
+        "episode": 170,
+        "overview": "Introduces Araide Tomoaki. He doesn’t really do much for now, but he becomes extremely important later on.\n\n• Manga 234-237 · V24F3-6\n• Focus: Araide Tomoaki"
+      },
+      {
+        "id": "kitsu:210:171",
+        "title": "The Blind Spot in the Darkness (Part 2) ★Main Plot",
+        "season": 2,
+        "episode": 171,
+        "overview": "Introduces Araide Tomoaki. He doesn’t really do much for now, but he becomes extremely important later on.\n\n• Manga 234-237 · V24F3-6\n• Focus: Araide Tomoaki"
+      },
+      {
+        "id": "kitsu:210:174",
+        "title": "The 20 Year Old Murder Case: The Symphony Serial Murders",
+        "season": 2,
+        "episode": 174,
+        "overview": "Heiji case.\n\n• 2 Hour Special\n• Manga 225-230 · V23F4-9\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:176",
+        "title": "Meeting with the Black Organization Again (Haibara Part) ★Main Plot",
+        "season": 2,
+        "episode": 176,
+        "overview": ": “Reunion with the Black Organization”\n\n• Manga 238-242 · V24F7-11"
+      },
+      {
+        "id": "kitsu:210:177",
+        "title": "Meeting with the Black Organization Again (Conan Part) ★Main Plot",
+        "season": 2,
+        "episode": 177,
+        "overview": ": “Reunion with the Black Organization”\n\n• Manga 238-242 · V24F7-11"
+      },
+      {
+        "id": "kitsu:210:178",
+        "title": "Meeting with the Black Organization Again (Resolution) ★Main Plot",
+        "season": 2,
+        "episode": 178,
+        "overview": ": “Reunion with the Black Organization”\n\n• Manga 238-242 · V24F7-11\n\n▶ Watch Movie 3 — The Last Wizard of the Century next"
+      },
+      {
+        "id": "kitsu:210:188",
+        "title": "The Desperate Revival ~The Cavern of the Detective Boys~ ★Main Plot",
+        "season": 2,
+        "episode": 188,
+        "overview": "“The Desperate Revival”\n\n• Manga 251-260 · V25F9-V26F7"
+      },
+      {
+        "id": "kitsu:210:189",
+        "title": "The Desperate Revival ~The Wounded Great Detective~ ★Main Plot",
+        "season": 2,
+        "episode": 189,
+        "overview": "“The Desperate Revival”\n\n• Manga 251-260 · V25F9-V26F7"
+      },
+      {
+        "id": "kitsu:210:190",
+        "title": "The Desperate Revival ~The Third Choice~ ★Main Plot",
+        "season": 2,
+        "episode": 190,
+        "overview": "“The Desperate Revival”\n\n• Manga 251-260 · V25F9-V26F7"
+      },
+      {
+        "id": "kitsu:210:191",
+        "title": "The Desperate Revival ~The Black Knight~ ★Main Plot",
+        "season": 2,
+        "episode": 191,
+        "overview": "“The Desperate Revival”\n\n• Manga 251-260 · V25F9-V26F7"
+      },
+      {
+        "id": "kitsu:210:192",
+        "title": "The Desperate Revival ~Shinichi's Return...~ ★Main Plot",
+        "season": 2,
+        "episode": 192,
+        "overview": "“The Desperate Revival”\n\n• Manga 251-260 · V25F9-V26F7"
+      },
+      {
+        "id": "kitsu:210:193",
+        "title": "The Desperate Revival ~The Promised Place~ ★Main Plot",
+        "season": 2,
+        "episode": 193,
+        "overview": "“The Desperate Revival”\n\n• Manga 251-260 · V25F9-V26F7"
+      },
+      {
+        "id": "kitsu:210:199",
+        "title": "Kogoro Mouri, Suspect (Part 1)",
+        "season": 2,
+        "episode": 199,
+        "overview": "Character development.\n\n• Manga 264-266 · V27F1-3"
+      },
+      {
+        "id": "kitsu:210:200",
+        "title": "Kogoro Mouri, Suspect (Part 2)",
+        "season": 3,
+        "episode": 200,
+        "overview": "Character development.\n\n• Manga 264-266 · V27F1-3"
+      },
+      {
+        "id": "kitsu:210:205",
+        "title": "Metropolitan Police Detective Love Story 3 (Part 1)",
+        "season": 3,
+        "episode": 205,
+        "overview": "“Metropolitan Police Detective Love Story 3”\n\n• Manga 267-269 · V27F4-6"
+      },
+      {
+        "id": "kitsu:210:206",
+        "title": "Metropolitan Police Detective Love Story 3 (Part 2)",
+        "season": 3,
+        "episode": 206,
+        "overview": "“Metropolitan Police Detective Love Story 3”\n\n• Manga 267-269 · V27F4-6"
+      },
+      {
+        "id": "kitsu:210:212",
+        "title": "Mushrooms, Bears, and the Detective Boys (Part 1)",
+        "season": 3,
+        "episode": 212,
+        "overview": "Haibara development.\n\n• Manga 273-275 · V27F10-V28F2\n• Focus: Haibara"
+      },
+      {
+        "id": "kitsu:210:213",
+        "title": "Mushrooms, Bears, and the Detective Boys (Part 2)",
+        "season": 3,
+        "episode": 213,
+        "overview": "Haibara development.\n\n• Manga 273-275 · V27F10-V28F2\n• Focus: Haibara"
+      },
+      {
+        "id": "kitsu:210:217",
+        "title": "Megure's Locked Away Secret (Part 1)",
+        "season": 3,
+        "episode": 217,
+        "overview": "Megure development.\n\n• Manga 284-286 · V28F11-V29F2\n• Focus: Megure"
+      },
+      {
+        "id": "kitsu:210:218",
+        "title": "Megure's Locked Away Secret (Part 2)",
+        "season": 3,
+        "episode": 218,
+        "overview": "Megure development.\n\n• Manga 284-286 · V28F11-V29F2\n• Focus: Megure"
+      },
+      {
+        "id": "kitsu:210:219",
+        "title": "The Gathering of the Detectives! Shinichi Kudo vs. Kaitou Kid ★Main Plot",
+        "season": 3,
+        "episode": 219,
+        "overview": "Kaitō Kid. Also some background stuff that will be important later on.\n\n• 2 Hour Special\n• Manga MK23-24 · V4C3-4 & DC299-302|V30F4-7\n• Focus: Kaitō Kid"
+      },
+      {
+        "id": "kitsu:210:220",
+        "title": "The Client Full of Lies (Part 1)",
+        "season": 3,
+        "episode": 220,
+        "overview": "Introduces Heiji’s mother.\n\n• Manga 276-278 · V28F3-5\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:221",
+        "title": "The Client Full of Lies (Part 2)",
+        "season": 3,
+        "episode": 221,
+        "overview": "Introduces Heiji’s mother.\n\n• Manga 276-278 · V28F3-5\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:222",
+        "title": "And There Were No Mermaids (The Murder)",
+        "season": 3,
+        "episode": 222,
+        "overview": "Heiji case. Some Conan development.\n\n• Manga 279-283 · V28F6-10\n• Focus: Heiji, Conan"
+      },
+      {
+        "id": "kitsu:210:223",
+        "title": "And There Were No Mermaids (The Deduction)",
+        "season": 3,
+        "episode": 223,
+        "overview": "Heiji case. Some Conan development.\n\n• Manga 279-283 · V28F6-10\n• Focus: Heiji, Conan"
+      },
+      {
+        "id": "kitsu:210:224",
+        "title": "And There Were No Mermaids (The Resolution)",
+        "season": 3,
+        "episode": 224,
+        "overview": "Heiji case. Some Conan development.\n\n• Manga 279-283 · V28F6-10\n• Focus: Heiji, Conan"
+      },
+      {
+        "id": "kitsu:210:226",
+        "title": "The Battle Game Trap (Part 1) ★Main Plot",
+        "season": 3,
+        "episode": 226,
+        "overview": "Introduces Jodie Saintemillion.\n\n• Manga 270-272 · V27F7-9\n• Focus: Jodie Saintemillion"
+      },
+      {
+        "id": "kitsu:210:227",
+        "title": "The Battle Game Trap (Part 2) ★Main Plot",
+        "season": 3,
+        "episode": 227,
+        "overview": "Introduces Jodie Saintemillion.\n\n• Manga 270-272 · V27F7-9\n• Focus: Jodie Saintemillion"
+      },
+      {
+        "id": "kitsu:210:230",
+        "title": "The Mysterious Passenger (Part 1) ★Main Plot",
+        "season": 3,
+        "episode": 230,
+        "overview": "Introduces Akai Shūichi—AKA Badass Incarnate—gives Jodie-sensei and Araide-sensei development, and some Black Organization on the side.\n\n• Manga 287-289 · V29F3-5\n• Focus: Akai Shūichi, Jodie-sensei, Araide-sensei, Black Organization"
+      },
+      {
+        "id": "kitsu:210:231",
+        "title": "The Mysterious Passenger (Part 2) ★Main Plot",
+        "season": 3,
+        "episode": 231,
+        "overview": "Introduces Akai Shūichi—AKA Badass Incarnate—gives Jodie-sensei and Araide-sensei development, and some Black Organization on the side.\n\n• Manga 287-289 · V29F3-5\n• Focus: Akai Shūichi, Jodie-sensei, Araide-sensei, Black Organization"
+      },
+      {
+        "id": "kitsu:210:238",
+        "title": "The 3 Ks of Osaka Case (Part 1)",
+        "season": 3,
+        "episode": 238,
+        "overview": "Heiji case. Conan development.\n\n• Manga 293-295 · V29F9-11\n• Focus: Heiji, Conan"
+      },
+      {
+        "id": "kitsu:210:239",
+        "title": "The 3 Ks of Osaka Case (Part 2)",
+        "season": 3,
+        "episode": 239,
+        "overview": "Heiji case. Conan development.\n\n• Manga 293-295 · V29F9-11\n• Focus: Heiji, Conan\n\n▶ Watch Movie 4 — Captured in Her Eyes next"
+      },
+      {
+        "id": "kitsu:210:240",
+        "title": "The Bullet Train Transport Case (Part 1)",
+        "season": 3,
+        "episode": 240,
+        "overview": "Character development.\n\n• Manga 296-298 · V30F1-3"
+      },
+      {
+        "id": "kitsu:210:241",
+        "title": "The Bullet Train Transport Case (Part 2)",
+        "season": 3,
+        "episode": 241,
+        "overview": "Character development.\n\n• Manga 296-298 · V30F1-3"
+      },
+      {
+        "id": "kitsu:210:242",
+        "title": "Boy George's Misfortune",
+        "season": 3,
+        "episode": 242,
+        "overview": "Some Haibara development and very minor Black Organization info.\n\n• Manga 303-304 · V30F8-9\n• Focus: Haibara, Black Organization"
+      },
+      {
+        "id": "kitsu:210:246",
+        "title": "The Mystery in the Net (Part 1)",
+        "season": 3,
+        "episode": 246,
+        "overview": "Haibara development.\n\n• Manga 311-313 · V31F5-7\n• Focus: Haibara"
+      },
+      {
+        "id": "kitsu:210:247",
+        "title": "The Mystery in the Net (Part 2)",
+        "season": 3,
+        "episode": 247,
+        "overview": "Haibara development.\n\n• Manga 311-313 · V31F5-7\n• Focus: Haibara"
+      },
+      {
+        "id": "kitsu:210:253",
+        "title": "Metropolitan Police Detective Love Story 4 (Part 1) ★Main Plot",
+        "season": 3,
+        "episode": 253,
+        "overview": "“Metropolitan Police Detective Love Story 4”\n\n• Manga 328-330 · V32F11-V33F2"
+      },
+      {
+        "id": "kitsu:210:254",
+        "title": "Metropolitan Police Detective Love Story 4 (Part 2) ★Main Plot",
+        "season": 3,
+        "episode": 254,
+        "overview": "“Metropolitan Police Detective Love Story 4”\n\n• Manga 328-330 · V32F11-V33F2"
+      },
+      {
+        "id": "kitsu:210:258",
+        "title": "The Man from Chicago (Part 1) ★Main Plot",
+        "season": 3,
+        "episode": 258,
+        "overview": "Introduces James Black. Also, some Shūichi development.\n\n• Manga 325-327 · V32F8-10\n• Focus: James Black, Shūichi"
+      },
+      {
+        "id": "kitsu:210:259",
+        "title": "The Man from Chicago (Part 2) ★Main Plot",
+        "season": 3,
+        "episode": 259,
+        "overview": "Introduces James Black. Also, some Shūichi development.\n\n• Manga 325-327 · V32F8-10\n• Focus: James Black, Shūichi"
+      },
+      {
+        "id": "kitsu:210:263",
+        "title": "The Osaka Double Mystery - Naniwa Swordsman and Toyotomi's Castle",
+        "season": 3,
+        "episode": 263,
+        "overview": "Heiji case.\n\n• 2 Hour Special\n• Manga 314-321 · V31F8-V32F4\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:266",
+        "title": "The Truth Behind Valentine's (The Murder) ★Main Plot",
+        "season": 3,
+        "episode": 266,
+        "overview": "Some Makoto development. Plus more Shūichi.\n\n• Manga 331-334 · V33F3-6\n• Focus: Makoto, Shūichi"
+      },
+      {
+        "id": "kitsu:210:267",
+        "title": "The Truth Behind Valentine's (The Reasoning) ★Main Plot",
+        "season": 3,
+        "episode": 267,
+        "overview": "Some Makoto development. Plus more Shūichi.\n\n• Manga 331-334 · V33F3-6\n• Focus: Makoto, Shūichi"
+      },
+      {
+        "id": "kitsu:210:268",
+        "title": "The Truth Behind Valentine's (The Resolution) ★Main Plot",
+        "season": 3,
+        "episode": 268,
+        "overview": "Some Makoto development. Plus more Shūichi.\n\n• Manga 331-334 · V33F3-6\n• Focus: Makoto, Shūichi"
+      },
+      {
+        "id": "kitsu:210:269",
+        "title": "The Forgotten Memento from the Crime (Part 1) ★Main Plot",
+        "season": 3,
+        "episode": 269,
+        "overview": "Some Black Organization info and some Jodie development. Also, more Shūichi.\n\n• Manga 335-340 · V33F7-V34F1\n• Focus: Black Organization, Jodie, Shūichi"
+      },
+      {
+        "id": "kitsu:210:270",
+        "title": "The Forgotten Memento from the Crime (Part 2) ★Main Plot",
+        "season": 3,
+        "episode": 270,
+        "overview": "Some Black Organization info and some Jodie development. Also, more Shūichi.\n\n• Manga 335-340 · V33F7-V34F1\n• Focus: Black Organization, Jodie, Shūichi"
+      },
+      {
+        "id": "kitsu:210:271",
+        "title": "Secret Rushed Omission (Part 1) ★Main Plot",
+        "season": 3,
+        "episode": 271,
+        "overview": "Some Black Organization info and some Jodie development. Also, more Shūichi.\n\n• Manga 335-340 · V33F7-V34F1\n• Focus: Black Organization, Jodie, Shūichi"
+      },
+      {
+        "id": "kitsu:210:272",
+        "title": "Secret Rushed Omission (Part 2) ★Main Plot",
+        "season": 3,
+        "episode": 272,
+        "overview": "Some Black Organization info and some Jodie development. Also, more Shūichi.\n\n• Manga 335-340 · V33F7-V34F1\n• Focus: Black Organization, Jodie, Shūichi"
+      },
+      {
+        "id": "kitsu:210:277",
+        "title": "English Teacher vs. Great Western Detective (Part 1) ★Main Plot",
+        "season": 3,
+        "episode": 277,
+        "overview": "Lots of Heiji and Jodie.\n\n• Manga 341-343 · V34F2-4*\n• Focus: Heiji, Jodie"
+      },
+      {
+        "id": "kitsu:210:278",
+        "title": "English Teacher vs. Great Western Detective (Part 2) ★Main Plot",
+        "season": 3,
+        "episode": 278,
+        "overview": "Lots of Heiji and Jodie.\n\n• Manga 341-343 · V34F2-4*\n• Focus: Heiji, Jodie\n\n▶ Watch Movie 5 — Countdown to Heaven next"
+      },
+      {
+        "id": "kitsu:210:279",
+        "title": "The Hooligan in the Labyrinth (Part 1) ★Main Plot",
+        "season": 3,
+        "episode": 279,
+        "overview": "Haibara development and some Black Organization clues.\n\n• Manga 344-346 · V34F5-7\n• Focus: Haibara, Black Organization"
+      },
+      {
+        "id": "kitsu:210:280",
+        "title": "The Hooligan in the Labyrinth (Part 2) ★Main Plot",
+        "season": 3,
+        "episode": 280,
+        "overview": "Haibara development and some Black Organization clues.\n\n• Manga 344-346 · V34F5-7\n• Focus: Haibara, Black Organization"
+      },
+      {
+        "id": "kitsu:210:284",
+        "title": "Chinatown Deja Vu in the Rain (Part 1) ★Main Plot",
+        "season": 3,
+        "episode": 284,
+        "overview": "More Shūichi.\n\n• Manga 347-349 · V34F8-10\n• Focus: Shūichi"
+      },
+      {
+        "id": "kitsu:210:285",
+        "title": "Chinatown Deja Vu in the Rain (Part 2) ★Main Plot",
+        "season": 3,
+        "episode": 285,
+        "overview": "More Shūichi.\n\n• Manga 347-349 · V34F8-10\n• Focus: Shūichi"
+      },
+      {
+        "id": "kitsu:210:286",
+        "title": "Shinichi Kudo's New York Case (The Case) ★Main Plot",
+        "season": 3,
+        "episode": 286,
+        "overview": "“Kudō Shinichi’s New York Case”—Extremely important Shūichi, among other things.\n\n• Manga 350-354 · V34F11-V35F4\n• Focus: Shūichi"
+      },
+      {
+        "id": "kitsu:210:287",
+        "title": "Shinichi Kudo's New York Case (The Deduction) ★Main Plot",
+        "season": 3,
+        "episode": 287,
+        "overview": "“Kudō Shinichi’s New York Case”—Extremely important Shūichi, among other things.\n\n• Manga 350-354 · V34F11-V35F4\n• Focus: Shūichi"
+      },
+      {
+        "id": "kitsu:210:288",
+        "title": "Shinichi Kudo's New York Case (The Resolution) ★Main Plot",
+        "season": 3,
+        "episode": 288,
+        "overview": "“Kudō Shinichi’s New York Case”—Extremely important Shūichi, among other things.\n\n• Manga 350-354 · V34F11-V35F4\n• Focus: Shūichi"
+      },
+      {
+        "id": "kitsu:210:289",
+        "title": "Mitsuhiko in a Forest of Indecision (Part 1) ★Main Plot",
+        "season": 3,
+        "episode": 289,
+        "overview": "Some Black Organization info.\n\n• Manga 358-360 · V35F8-10\n• Focus: Black Organization"
+      },
+      {
+        "id": "kitsu:210:290",
+        "title": "Mitsuhiko in a Forest of Indecision (Part 2) ★Main Plot",
+        "season": 3,
+        "episode": 290,
+        "overview": "Some Black Organization info.\n\n• Manga 358-360 · V35F8-10\n• Focus: Black Organization"
+      },
+      {
+        "id": "kitsu:210:291",
+        "title": "Solitary Island of the Princess and the Dragon King's Palace (The Murder)",
+        "season": 3,
+        "episode": 291,
+        "overview": "Heiji case.\n\n• Manga 361-365 · V35F11-V36F4\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:292",
+        "title": "Solitary Island of the Princess and the Dragon King's Palace (The Investigation)",
+        "season": 3,
+        "episode": 292,
+        "overview": "Heiji case.\n\n• Manga 361-365 · V35F11-V36F4\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:293",
+        "title": "Solitary Island of the Princess and the Dragon King's Palace (The Resolution)",
+        "season": 3,
+        "episode": 293,
+        "overview": "Heiji case.\n\n• Manga 361-365 · V35F11-V36F4\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:301",
+        "title": "Parade of Malice and Saints (Part 1)",
+        "season": 4,
+        "episode": 301,
+        "overview": "Satō and Takagi development.\n\n• Manga 366-373 · V36F5-V37F1\n• Focus: Satō, Takagi"
+      },
+      {
+        "id": "kitsu:210:302",
+        "title": "Parade of Malice and Saints (Part 2)",
+        "season": 4,
+        "episode": 302,
+        "overview": "Satō and Takagi development.\n\n• Manga 366-373 · V36F5-V37F1\n• Focus: Satō, Takagi"
+      },
+      {
+        "id": "kitsu:210:304",
+        "title": "The Trembling Police Headquarters: 12 Million Hostages",
+        "season": 4,
+        "episode": 304,
+        "overview": "Satō and Takagi development.\n\n• Manga 366-373 · V36F5-V37F1\n• Focus: Satō, Takagi"
+      },
+      {
+        "id": "kitsu:210:307",
+        "title": "On the Trail of a Silent Witness (Part 1) ★Main Plot",
+        "season": 4,
+        "episode": 307,
+        "overview": "Buildup.\n\n• Manga 377-379 · V37F5-7"
+      },
+      {
+        "id": "kitsu:210:308",
+        "title": "On the Trail of a Silent Witness (part 2) ★Main Plot",
+        "season": 4,
+        "episode": 308,
+        "overview": "Buildup.\n\n• Manga 377-379 · V37F5-7"
+      },
+      {
+        "id": "kitsu:210:309",
+        "title": "Contact with the Black Organization: Negotiation Chapter ★Main Plot",
+        "season": 4,
+        "episode": 309,
+        "overview": "“Contact with the Black Organization”\n\n• Manga 380-383 · V37F8-V38F1"
+      },
+      {
+        "id": "kitsu:210:310",
+        "title": "Contact with the Black Organization: Pursuit Chapter ★Main Plot",
+        "season": 4,
+        "episode": 310,
+        "overview": "“Contact with the Black Organization”\n\n• Manga 380-383 · V37F8-V38F1"
+      },
+      {
+        "id": "kitsu:210:311",
+        "title": "Contact with the Black Organization: Desperation Chapter ★Main Plot",
+        "season": 4,
+        "episode": 311,
+        "overview": "“Contact with the Black Organization”\n\n• Manga 380-383 · V37F8-V38F1"
+      },
+      {
+        "id": "kitsu:210:312",
+        "title": "Festival Dolls Dyed in the Setting Sun (Part 1) ★Main Plot",
+        "season": 4,
+        "episode": 312,
+        "overview": "Followup, Haibara development, and Black Organization backstory.\n\n• Manga 384-386 · V38F2-4\n• Focus: Haibara, Black Organization"
+      },
+      {
+        "id": "kitsu:210:313",
+        "title": "Festival Dolls Dyed in the Setting Sun (Part 2) ★Main Plot",
+        "season": 4,
+        "episode": 313,
+        "overview": "Followup, Haibara development, and Black Organization backstory.\n\n• Manga 384-386 · V38F2-4\n• Focus: Haibara, Black Organization\n\n▶ Watch Movie 6 — The Phantom of Baker Street next"
+      },
+      {
+        "id": "kitsu:210:323",
+        "title": "Heiji Hattori's Desperate Situation! (Part 1)",
+        "season": 4,
+        "episode": 323,
+        "overview": "Heiji case.\n\n• Manga 390-397 · V38F8-V39F5\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:324",
+        "title": "Heiji Hattori's Desperate Situation! (Part 2)",
+        "season": 4,
+        "episode": 324,
+        "overview": "Heiji case.\n\n• Manga 390-397 · V38F8-V39F5\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:325",
+        "title": "The Red Horse Among the Flames: The Incident",
+        "season": 4,
+        "episode": 325,
+        "overview": "Heiji case.\n\n• Manga 390-397 · V38F8-V39F5\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:326",
+        "title": "The Red Horse Among the Flames: The Investigation",
+        "season": 4,
+        "episode": 326,
+        "overview": "Heiji case.\n\n• Manga 390-397 · V38F8-V39F5\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:327",
+        "title": "The Red Horse Among the Flames: The Resolution",
+        "season": 4,
+        "episode": 327,
+        "overview": "Heiji case.\n\n• Manga 390-397 · V38F8-V39F5\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:329",
+        "title": "Friendship Can't Be Bought with Money (Part 1)",
+        "season": 4,
+        "episode": 329,
+        "overview": "Haibara development.\n\n• Manga 398-400 · V39F6-8\n• Focus: Haibara"
+      },
+      {
+        "id": "kitsu:210:330",
+        "title": "Friendship Can't Be Bought with Money (Part 2)",
+        "season": 4,
+        "episode": 330,
+        "overview": "Haibara development.\n\n• Manga 398-400 · V39F6-8\n• Focus: Haibara"
+      },
+      {
+        "id": "kitsu:210:333",
+        "title": "Alike Princesses (Part 1)",
+        "season": 4,
+        "episode": 333,
+        "overview": "Character development.\n\n• Manga 413-416 · V40F10-V41F3"
+      },
+      {
+        "id": "kitsu:210:334",
+        "title": "Alike Princesses (Part 2)",
+        "season": 4,
+        "episode": 334,
+        "overview": "Character development.\n\n• Manga 413-416 · V40F10-V41F3"
+      },
+      {
+        "id": "kitsu:210:335",
+        "title": "Secret of the Touto Film Making Centre (Part 1) ★Main Plot",
+        "season": 4,
+        "episode": 335,
+        "overview": "Yukiko development and even more Shūichi.\n\n• Manga 417-419 · V41F4-6\n• Focus: Yukiko, Shūichi"
+      },
+      {
+        "id": "kitsu:210:336",
+        "title": "Secret of the Touto Film Making Centre (Part 2) ★Main Plot",
+        "season": 4,
+        "episode": 336,
+        "overview": "Yukiko development and even more Shūichi.\n\n• Manga 417-419 · V41F4-6\n• Focus: Yukiko, Shūichi"
+      },
+      {
+        "id": "kitsu:210:338",
+        "title": "Four Porsches (Part 1) ★Main Plot",
+        "season": 4,
+        "episode": 338,
+        "overview": "Haibara, Shūichi, Jodie, and Araide development.\n\n• Manga 420-422 · V41F7-9\n• Focus: Haibara, Shūichi, Jodie, Araide"
+      },
+      {
+        "id": "kitsu:210:339",
+        "title": "Four Porsches (Part 2) ★Main Plot",
+        "season": 4,
+        "episode": 339,
+        "overview": "Haibara, Shūichi, Jodie, and Araide development.\n\n• Manga 420-422 · V41F7-9\n• Focus: Haibara, Shūichi, Jodie, Araide"
+      },
+      {
+        "id": "kitsu:210:340",
+        "title": "The Secret Hidden in the Bathroom (Part 1) ★Main Plot",
+        "season": 4,
+        "episode": 340,
+        "overview": "Haibara development.\n\n• Manga 423-425 · V41F10-V42F1\n• Focus: Haibara"
+      },
+      {
+        "id": "kitsu:210:341",
+        "title": "The Secret Hidden in the Bathroom (Part 2) ★Main Plot",
+        "season": 4,
+        "episode": 341,
+        "overview": "Haibara development.\n\n• Manga 423-425 · V41F10-V42F1\n• Focus: Haibara"
+      },
+      {
+        "id": "kitsu:210:343",
+        "title": "The Convenience Store Trap (Part 1) ★Main Plot",
+        "season": 4,
+        "episode": 343,
+        "overview": "Jodie and Ran development.\n\n• Manga 426-428 · V42F2-4\n• Focus: Jodie, Ran"
+      },
+      {
+        "id": "kitsu:210:344",
+        "title": "The Convenience Store Trap (Part 2) ★Main Plot",
+        "season": 4,
+        "episode": 344,
+        "overview": "Jodie and Ran development.\n\n• Manga 426-428 · V42F2-4\n• Focus: Jodie, Ran"
+      },
+      {
+        "id": "kitsu:210:345",
+        "title": "Head-to-Head Match With the Black Organization: A Dual Mystery on a Full Moon Night ★Main Plot",
+        "season": 4,
+        "episode": 345,
+        "overview": "“Head-to-Head Match with the Black Organization: A Dual Mystery on a Full Moon Night”\n\n• 2.5 Hour Special\n• Manga 429-434 · V42F5-10\n\n▶ Watch Movie 7 — Crossroad in the Ancient Capital next"
+      },
+      {
+        "id": "kitsu:210:346",
+        "title": "Find the Buttocks' Mark! (Part 1)",
+        "season": 4,
+        "episode": 346,
+        "overview": "Some Haibara followup development.\n\n• Manga 435-437 · V42F11-V43F2\n• Focus: Haibara"
+      },
+      {
+        "id": "kitsu:210:347",
+        "title": "Find the Buttocks' Mark! (Part 2)",
+        "season": 4,
+        "episode": 347,
+        "overview": "Some Haibara followup development.\n\n• Manga 435-437 · V42F11-V43F2\n• Focus: Haibara"
+      },
+      {
+        "id": "kitsu:210:356",
+        "title": "Kaitou Kid's Miraculous Midair Walk",
+        "season": 4,
+        "episode": 356,
+        "overview": "Kaitō Kid.\n\n• 1 Hour Special\n• Manga 453-456 · V44F7-10\n• Focus: Kaitō Kid"
+      },
+      {
+        "id": "kitsu:210:358",
+        "title": "Metropolitan Police Detective Love Story 5 (Part 1)",
+        "season": 4,
+        "episode": 358,
+        "overview": "“Metropolitan Police Detective Love Story 5”\n\n• Manga 404-406 · V40F1-3"
+      },
+      {
+        "id": "kitsu:210:359",
+        "title": "Metropolitan Police Detective Love Story 5 (Part 2)",
+        "season": 4,
+        "episode": 359,
+        "overview": "“Metropolitan Police Detective Love Story 5”\n\n• Manga 404-406 · V40F1-3"
+      },
+      {
+        "id": "kitsu:210:361",
+        "title": "Teitan High School's Ghost Story (Part 1) ★Main Plot",
+        "season": 4,
+        "episode": 361,
+        "overview": "Jodie and Araide development.\n\n• Manga 457-459 · V44F11-V45F2\n• Focus: Jodie, Araide"
+      },
+      {
+        "id": "kitsu:210:362",
+        "title": "Teitan High School's Ghost Story (Part 2) ★Main Plot",
+        "season": 4,
+        "episode": 362,
+        "overview": "Jodie and Araide development.\n\n• Manga 457-459 · V44F11-V45F2\n• Focus: Jodie, Araide"
+      },
+      {
+        "id": "kitsu:210:381",
+        "title": "Whose Reasoning Show (Part 1)",
+        "season": 4,
+        "episode": 381,
+        "overview": "Heiji case.\n\n• Manga 441-449 · V43F6-V44F3\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:382",
+        "title": "Whose Reasoning Show (Part 2)",
+        "season": 4,
+        "episode": 382,
+        "overview": "Heiji case.\n\n• Manga 441-449 · V43F6-V44F3\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:383",
+        "title": "Miracle at Koshien Ball Park! The Defiants Face the Dark Demon",
+        "season": 4,
+        "episode": 383,
+        "overview": "Heiji case.\n\n• Manga 441-449 · V43F6-V44F3\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:385",
+        "title": "Dissonance of the Stradivarius Violin (Overture) ★Main Plot",
+        "season": 4,
+        "episode": 385,
+        "overview": "Black Organization info.\n\n• Manga 470-474 · V46F2-6\n• Focus: Black Organization"
+      },
+      {
+        "id": "kitsu:210:386",
+        "title": "Dissonance of the Stradivarius Violin (Interlude) ★Main Plot",
+        "season": 4,
+        "episode": 386,
+        "overview": "Black Organization info.\n\n• Manga 470-474 · V46F2-6\n• Focus: Black Organization"
+      },
+      {
+        "id": "kitsu:210:387",
+        "title": "Dissonance of the Stradivarius Violin (Last Tune) ★Main Plot",
+        "season": 4,
+        "episode": 387,
+        "overview": "Black Organization info.\n\n• Manga 470-474 · V46F2-6\n• Focus: Black Organization\n\n▶ Watch Movie 8 — Magician of the Silver Sky next"
+      },
+      {
+        "id": "kitsu:210:390",
+        "title": "Metropolitan Police Detective Love Story 6 (Part 1)",
+        "season": 4,
+        "episode": 390,
+        "overview": "“Metropolitan Police Detective Love Story 6”\n\n• Manga 450-452 · V44F4-6"
+      },
+      {
+        "id": "kitsu:210:391",
+        "title": "Metropolitan Police Detective Love Story 6 (Part 2)",
+        "season": 4,
+        "episode": 391,
+        "overview": "“Metropolitan Police Detective Love Story 6”\n\n• Manga 450-452 · V44F4-6"
+      },
+      {
+        "id": "kitsu:210:394",
+        "title": "Big Adventure in the Eccentric Mansion: The Seal",
+        "season": 4,
+        "episode": 394,
+        "overview": "Kaitō Kid.\n\n• Manga 475-478 · V46F7-10\n• Focus: Kaitō Kid"
+      },
+      {
+        "id": "kitsu:210:395",
+        "title": "Big Adventure in the Eccentric Mansion: The Mechanism",
+        "season": 4,
+        "episode": 395,
+        "overview": "Kaitō Kid.\n\n• Manga 475-478 · V46F7-10\n• Focus: Kaitō Kid"
+      },
+      {
+        "id": "kitsu:210:396",
+        "title": "Big Adventure in the Eccentric Mansion: The Resolution",
+        "season": 4,
+        "episode": 396,
+        "overview": "Kaitō Kid.\n\n• Manga 475-478 · V46F7-10\n• Focus: Kaitō Kid"
+      },
+      {
+        "id": "kitsu:210:398",
+        "title": "The Weird Family's Commission (Part 1)",
+        "season": 4,
+        "episode": 398,
+        "overview": "Some setup and building suspense.\n\n• Manga 479-482 · V46F11-V47F3"
+      },
+      {
+        "id": "kitsu:210:399",
+        "title": "The Weird Family's Commission (Part 2)",
+        "season": 4,
+        "episode": 399,
+        "overview": "Some setup and building suspense.\n\n• Manga 479-482 · V46F11-V47F3"
+      },
+      {
+        "id": "kitsu:210:400",
+        "title": "Ran's Suspicions ★Main Plot",
+        "season": 5,
+        "episode": 400,
+        "overview": "Major character development.\n\n• Manga 483 · V47F4"
+      },
+      {
+        "id": "kitsu:210:406",
+        "title": "Conan and Heiji's Reasoning Magic: The Trick",
+        "season": 5,
+        "episode": 406,
+        "overview": "Heiji case.\n\n• Manga 487-490 · V47F8-11\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:407",
+        "title": "Conan and Heiji's Reasoning Magic: The Mansion",
+        "season": 5,
+        "episode": 407,
+        "overview": "Heiji case.\n\n• Manga 487-490 · V47F8-11\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:408",
+        "title": "Conan and Heiji's Reasoning Magic: The Resolution",
+        "season": 5,
+        "episode": 408,
+        "overview": "Heiji case.\n\n• Manga 487-490 · V47F8-11\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:421",
+        "title": "Gingko-Colored First Love (Part 1)",
+        "season": 5,
+        "episode": 421,
+        "overview": "Agasa development.\n\n• Manga 410-412 · V40F7-9\n• Focus: Agasa"
+      },
+      {
+        "id": "kitsu:210:422",
+        "title": "Gingko-Colored First Love (Part 2)",
+        "season": 5,
+        "episode": 422,
+        "overview": "Agasa development.\n\n• Manga 410-412 · V40F7-9\n• Focus: Agasa"
+      },
+      {
+        "id": "kitsu:210:425",
+        "title": "Black Impact! The Moment the Black Organization Reaches Out! ★Main Plot",
+        "season": 5,
+        "episode": 425,
+        "overview": "“Black Impact! The Moment the Black Organization Reaches Out”\n\n• 2.5 Hour Special\n• Manga 499-504 · V48F9-V49F4"
+      },
+      {
+        "id": "kitsu:210:429",
+        "title": "The Two Who Can't Return Anymore (Part 1) ★Main Plot",
+        "season": 5,
+        "episode": 429,
+        "overview": "Introduces Hondō Eisuke.\n\n• Manga 508-510 · V49F8-10\n• Focus: Hondō Eisuke"
+      },
+      {
+        "id": "kitsu:210:430",
+        "title": "The Two Who Can't Return Anymore (Part 2) ★Main Plot",
+        "season": 5,
+        "episode": 430,
+        "overview": "Introduces Hondō Eisuke.\n\n• Manga 508-510 · V49F8-10\n• Focus: Hondō Eisuke"
+      },
+      {
+        "id": "kitsu:210:431",
+        "title": "Metropolitan Police Detective Love Story 7 (Part 1)",
+        "season": 5,
+        "episode": 431,
+        "overview": "“Metropolitan Police Detective Love Story 7”\n\n• Manga 511-514 · V50F1-4"
+      },
+      {
+        "id": "kitsu:210:432",
+        "title": "Metropolitan Police Detective Love Story 7 (Part 2)",
+        "season": 5,
+        "episode": 432,
+        "overview": "“Metropolitan Police Detective Love Story 7”\n\n• Manga 511-514 · V50F1-4\n\n▶ Watch Movie 9 — Strategy Above the Depths next"
+      },
+      {
+        "id": "kitsu:210:449",
+        "title": "Metropolitan Police Love Story - Fake Wedding",
+        "season": 5,
+        "episode": 449,
+        "overview": "“Metropolitan Police Detective Love Story — Fake Wedding”\n\n• 1 Hour Special\n• Manga 535-537 · V52F3-5"
+      },
+      {
+        "id": "kitsu:210:457",
+        "title": "Sonoko's Red Handkerchief (Part 1)",
+        "season": 5,
+        "episode": 457,
+        "overview": "Sonoko and Makoto development.\n\n• Manga 541-543 · V52F9-11\n• Focus: Sonoko, Makoto"
+      },
+      {
+        "id": "kitsu:210:458",
+        "title": "Sonoko's Red Handkerchief (Part 2)",
+        "season": 5,
+        "episode": 458,
+        "overview": "Sonoko and Makoto development.\n\n• Manga 541-543 · V52F9-11\n• Focus: Sonoko, Makoto"
+      },
+      {
+        "id": "kitsu:210:462",
+        "title": "The Shadow of the Black Organization (The Young Witness) ★Main Plot",
+        "season": 5,
+        "episode": 462,
+        "overview": "“The Shadow of the Black Organization”\n\n• Manga 550-555 · V53F7-V54F2"
+      },
+      {
+        "id": "kitsu:210:463",
+        "title": "The Shadow of the Black Organization (The Strange Illumination) ★Main Plot",
+        "season": 5,
+        "episode": 463,
+        "overview": "“The Shadow of the Black Organization”\n\n• Manga 550-555 · V53F7-V54F2"
+      },
+      {
+        "id": "kitsu:210:464",
+        "title": "The Shadow of the Black Organization (The Mystery of the Big Reward) ★Main Plot",
+        "season": 5,
+        "episode": 464,
+        "overview": "“The Shadow of the Black Organization”\n\n• Manga 550-555 · V53F7-V54F2"
+      },
+      {
+        "id": "kitsu:210:465",
+        "title": "The Shadow of the Black Organization (Shining Star of Pearl) ★Main Plot",
+        "season": 5,
+        "episode": 465,
+        "overview": "“The Shadow of the Black Organization”\n\n• Manga 550-555 · V53F7-V54F2"
+      },
+      {
+        "id": "kitsu:210:469",
+        "title": "Kaitou Kid and the Four Masterpieces (Part 1)",
+        "season": 5,
+        "episode": 469,
+        "overview": "Kaitō Kid.\n\n• Manga 544-547 · V53F1-4\n• Focus: Kaitō Kid"
+      },
+      {
+        "id": "kitsu:210:470",
+        "title": "Kaitou Kid and the Four Masterpieces (Part 2)",
+        "season": 5,
+        "episode": 470,
+        "overview": "Kaitō Kid.\n\n• Manga 544-547 · V53F1-4\n• Focus: Kaitō Kid"
+      },
+      {
+        "id": "kitsu:210:472",
+        "title": "Shinichi Kudo's Childhood Adventure (Part 1)",
+        "season": 5,
+        "episode": 472,
+        "overview": "Kaitō Kid + Shinichi case.\n\n• Manga 570-573 · V55F6-9\n• Focus: Kaitō Kid, Shinichi"
+      },
+      {
+        "id": "kitsu:210:473",
+        "title": "Shinichi Kudo's Childhood Adventure (Part 2)",
+        "season": 5,
+        "episode": 473,
+        "overview": "Kaitō Kid + Shinichi case.\n\n• Manga 570-573 · V55F6-9\n• Focus: Kaitō Kid, Shinichi\n\n▶ Watch Movie 10 — The Private Eyes’ Requiem next"
+      },
+      {
+        "id": "kitsu:210:479",
+        "title": "Three Days with Hattori Heiji",
+        "season": 5,
+        "episode": 479,
+        "overview": "Heiji case.\n\n• 2 Hour Special\n• Manga 559-566 · V54F6-V55F2\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:484",
+        "title": "Whereabouts of the Dark Photograph (Part 1) ★Main Plot",
+        "season": 5,
+        "episode": 484,
+        "overview": "Eisuke development.\n\n• Manga 582-584 · V56F7-9\n• Focus: Eisuke"
+      },
+      {
+        "id": "kitsu:210:485",
+        "title": "Whereabouts of the Dark Photograph (Part 2) ★Main Plot",
+        "season": 5,
+        "episode": 485,
+        "overview": "Eisuke development.\n\n• Manga 582-584 · V56F7-9\n• Focus: Eisuke"
+      },
+      {
+        "id": "kitsu:210:487",
+        "title": "Metropolitan Police Detective Love Story 8: The Left Hand's Ring Finger",
+        "season": 5,
+        "episode": 487,
+        "overview": "“Metropolitan Police Detective Love Story 8: The Left Hand’s Ring Finger”\n\n• 1 Hour Special\n• Manga 576-578 · V56F1-3"
+      },
+      {
+        "id": "kitsu:210:490",
+        "title": "Hattori Heiji vs. Kudo Shinichi: Deduction Battle on the Ski Slope",
+        "season": 5,
+        "episode": 490,
+        "overview": "Heiji case.\n\n• 1 Hour Special\n• Manga 518-522 · V50F8-V51F1\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:491",
+        "title": "Clash of Red and Black (The Beginning) ★Main Plot",
+        "season": 5,
+        "episode": 491,
+        "overview": "“Clash of Red and Black”—By far the longest Black Organization arc to date.\n\n• Manga 585-590,595-609 · V56F10-V57F4,V57F9-V59F1\n• Focus: Black Organization"
+      },
+      {
+        "id": "kitsu:210:492",
+        "title": "Clash of Red and Black (Blood Relative) ★Main Plot",
+        "season": 5,
+        "episode": 492,
+        "overview": "“Clash of Red and Black”—By far the longest Black Organization arc to date.\n\n• Manga 585-590,595-609 · V56F10-V57F4,V57F9-V59F1\n• Focus: Black Organization"
+      },
+      {
+        "id": "kitsu:210:493",
+        "title": "Clash of Red and Black (Exclamation) ★Main Plot",
+        "season": 5,
+        "episode": 493,
+        "overview": "“Clash of Red and Black”—By far the longest Black Organization arc to date.\n\n• Manga 585-590,595-609 · V56F10-V57F4,V57F9-V59F1\n• Focus: Black Organization"
+      },
+      {
+        "id": "kitsu:210:494",
+        "title": "Clash of Red and Black (Hades) ★Main Plot",
+        "season": 5,
+        "episode": 494,
+        "overview": "“Clash of Red and Black”—By far the longest Black Organization arc to date.\n\n• Manga 585-590,595-609 · V56F10-V57F4,V57F9-V59F1\n• Focus: Black Organization"
+      },
+      {
+        "id": "kitsu:210:495",
+        "title": "Clash of Red and Black (Coma) ★Main Plot",
+        "season": 5,
+        "episode": 495,
+        "overview": "“Clash of Red and Black”—By far the longest Black Organization arc to date.\n\n• Manga 585-590,595-609 · V56F10-V57F4,V57F9-V59F1\n• Focus: Black Organization"
+      },
+      {
+        "id": "kitsu:210:496",
+        "title": "Clash of Red and Black! (Invasion) ★Main Plot",
+        "season": 5,
+        "episode": 496,
+        "overview": "“Clash of Red and Black”—By far the longest Black Organization arc to date.\n\n• Manga 585-590,595-609 · V56F10-V57F4,V57F9-V59F1\n• Focus: Black Organization"
+      },
+      {
+        "id": "kitsu:210:497",
+        "title": "Clash of Red and Black (Awakening) ★Main Plot",
+        "season": 5,
+        "episode": 497,
+        "overview": "“Clash of Red and Black”—By far the longest Black Organization arc to date.\n\n• Manga 585-590,595-609 · V56F10-V57F4,V57F9-V59F1\n• Focus: Black Organization"
+      },
+      {
+        "id": "kitsu:210:498",
+        "title": "Clash of Red and Black (Disturbance) ★Main Plot",
+        "season": 5,
+        "episode": 498,
+        "overview": "“Clash of Red and Black”—By far the longest Black Organization arc to date.\n\n• Manga 585-590,595-609 · V56F10-V57F4,V57F9-V59F1\n• Focus: Black Organization"
+      },
+      {
+        "id": "kitsu:210:499",
+        "title": "Clash of Red and Black! (Camouflage) ★Main Plot",
+        "season": 5,
+        "episode": 499,
+        "overview": "“Clash of Red and Black”—By far the longest Black Organization arc to date.\n\n• Manga 585-590,595-609 · V56F10-V57F4,V57F9-V59F1\n• Focus: Black Organization"
+      },
+      {
+        "id": "kitsu:210:500",
+        "title": "Clash of Red and Black (Testament) ★Main Plot",
+        "season": 6,
+        "episode": 500,
+        "overview": "“Clash of Red and Black”—By far the longest Black Organization arc to date.\n\n• Manga 585-590,595-609 · V56F10-V57F4,V57F9-V59F1\n• Focus: Black Organization"
+      },
+      {
+        "id": "kitsu:210:501",
+        "title": "Clash of Red and Black (Suspicion) ★Main Plot",
+        "season": 6,
+        "episode": 501,
+        "overview": "“Clash of Red and Black”—By far the longest Black Organization arc to date.\n\n• Manga 585-590,595-609 · V56F10-V57F4,V57F9-V59F1\n• Focus: Black Organization"
+      },
+      {
+        "id": "kitsu:210:502",
+        "title": "Clash of Red and Black (Innocence) ★Main Plot",
+        "season": 6,
+        "episode": 502,
+        "overview": "“Clash of Red and Black”—By far the longest Black Organization arc to date.\n\n• Manga 585-590,595-609 · V56F10-V57F4,V57F9-V59F1\n• Focus: Black Organization"
+      },
+      {
+        "id": "kitsu:210:503",
+        "title": "Clash of Red and Black (Ready to Die) ★Main Plot",
+        "season": 6,
+        "episode": 503,
+        "overview": "“Clash of Red and Black”—By far the longest Black Organization arc to date.\n\n• Manga 585-590,595-609 · V56F10-V57F4,V57F9-V59F1\n• Focus: Black Organization"
+      },
+      {
+        "id": "kitsu:210:504",
+        "title": "Clash of Red and Black (Killed in the Line of Duty) ★Main Plot",
+        "season": 6,
+        "episode": 504,
+        "overview": "“Clash of Red and Black”—By far the longest Black Organization arc to date.\n\n• Manga 585-590,595-609 · V56F10-V57F4,V57F9-V59F1\n• Focus: Black Organization\n\n▶ Watch Movie 11 — Jolly Roger in the Deep Azure next"
+      },
+      {
+        "id": "kitsu:210:507",
+        "title": "The Blind Spot in the Karaoke Box (Part 1) ★Main Plot",
+        "season": 6,
+        "episode": 507,
+        "overview": "Eisuke development.\n\n• Manga 619-621V59F11-V60F2\n• Focus: Eisuke"
+      },
+      {
+        "id": "kitsu:210:508",
+        "title": "The Blind Spot in the Karaoke Box (Part 2) ★Main Plot",
+        "season": 6,
+        "episode": 508,
+        "overview": "Eisuke development.\n\n• Manga 619-621V59F11-V60F2\n• Focus: Eisuke"
+      },
+      {
+        "id": "kitsu:210:509",
+        "title": "Red, White, Yellow, and the Detective Boys ★Main Plot",
+        "season": 6,
+        "episode": 509,
+        "overview": "Introduces Okiya Subaru (awesome to the max). Also, some Black Organization info.\n\n• Manga 622-624,638-640 · V60F3-5,V61F8-10\n• Focus: Okiya Subaru, Black Organization"
+      },
+      {
+        "id": "kitsu:210:510",
+        "title": "Conan vs. W Code Mystery ★Main Plot",
+        "season": 6,
+        "episode": 510,
+        "overview": "Introduces Okiya Subaru (awesome to the max). Also, some Black Organization info.\n\n• Manga 622-624,638-640 · V60F3-5,V61F8-10\n• Focus: Okiya Subaru, Black Organization"
+      },
+      {
+        "id": "kitsu:210:511",
+        "title": "Deduction Showdown! Shinichi vs. Subaru Okiya ★Main Plot",
+        "season": 6,
+        "episode": 511,
+        "overview": "Introduces Okiya Subaru (awesome to the max). Also, some Black Organization info.\n\n• Manga 622-624,638-640 · V60F3-5,V61F8-10\n• Focus: Okiya Subaru, Black Organization"
+      },
+      {
+        "id": "kitsu:210:515",
+        "title": "Kaitou Kid's Teleportation Magic",
+        "season": 6,
+        "episode": 515,
+        "overview": "Kaitō Kid.\n\n• 1 Hour Special\n• Manga 631-634 · V61F1-4\n• Focus: Kaitō Kid"
+      },
+      {
+        "id": "kitsu:210:516",
+        "title": "Fuurinkazan: The Mysterious Armoured Warrior",
+        "season": 6,
+        "episode": 516,
+        "overview": "Heiji case. Also introduces Yamato Kansuke and Uehara Yui.\n\n• Manga 613-618 · V59F5-10\n• Focus: Heiji, Yamato Kansuke, Uehara Yui"
+      },
+      {
+        "id": "kitsu:210:517",
+        "title": "Fuurinkazan: Shadow and Lightning's Conclusion",
+        "season": 6,
+        "episode": 517,
+        "overview": "Heiji case. Also introduces Yamato Kansuke and Uehara Yui.\n\n• Manga 613-618 · V59F5-10\n• Focus: Heiji, Yamato Kansuke, Uehara Yui\n\n▶ Watch Movie 12 — Full Score of Fear next"
+      },
+      {
+        "id": "kitsu:210:521",
+        "title": "Murderer, Shinichi Kudo ★Main Plot",
+        "season": 6,
+        "episode": 521,
+        "overview": "Shinichi case. Major development for the main characters, and Heiji is part of it this time.\n\n• Manga 635-637,646-654 · V61F5-7,V62F5-V63F2\n• Focus: Shinichi, Heiji"
+      },
+      {
+        "id": "kitsu:210:522",
+        "title": "Shinichi's True Face and Ran's Tears ★Main Plot",
+        "season": 6,
+        "episode": 522,
+        "overview": "Shinichi case. Major development for the main characters, and Heiji is part of it this time.\n\n• Manga 635-637,646-654 · V61F5-7,V62F5-V63F2\n• Focus: Shinichi, Heiji"
+      },
+      {
+        "id": "kitsu:210:523",
+        "title": "What She Truly Wants to Ask ★Main Plot",
+        "season": 6,
+        "episode": 523,
+        "overview": "Shinichi case. Major development for the main characters, and Heiji is part of it this time.\n\n• Manga 635-637,646-654 · V61F5-7,V62F5-V63F2\n• Focus: Shinichi, Heiji"
+      },
+      {
+        "id": "kitsu:210:524",
+        "title": "The Blue Spark of Hate (Part 1) ★Main Plot",
+        "season": 6,
+        "episode": 524,
+        "overview": "Shinichi case. Major development for the main characters, and Heiji is part of it this time.\n\n• Manga 635-637,646-654 · V61F5-7,V62F5-V63F2\n• Focus: Shinichi, Heiji"
+      },
+      {
+        "id": "kitsu:210:525",
+        "title": "The Blue Spark of Hate (Part 2) ★Main Plot",
+        "season": 6,
+        "episode": 525,
+        "overview": "Shinichi case. Major development for the main characters, and Heiji is part of it this time.\n\n• Manga 635-637,646-654 · V61F5-7,V62F5-V63F2\n• Focus: Shinichi, Heiji"
+      },
+      {
+        "id": "kitsu:210:532",
+        "title": "The Scar of First Love",
+        "season": 6,
+        "episode": 532,
+        "overview": "Development for Superintendent Matsumoto, Takagi, and Satō.\n\n• Manga 667-673 · V64F4-10\n• Focus: Superintendent Matsumoto, Takagi, Satō"
+      },
+      {
+        "id": "kitsu:210:533",
+        "title": "The Scar that Evokes the Past",
+        "season": 6,
+        "episode": 533,
+        "overview": "Development for Superintendent Matsumoto, Takagi, and Satō.\n\n• Manga 667-673 · V64F4-10\n• Focus: Superintendent Matsumoto, Takagi, Satō"
+      },
+      {
+        "id": "kitsu:210:534",
+        "title": "The New Scar and the Whistling Man",
+        "season": 6,
+        "episode": 534,
+        "overview": "Development for Superintendent Matsumoto, Takagi, and Satō.\n\n• Manga 667-673 · V64F4-10\n• Focus: Superintendent Matsumoto, Takagi, Satō"
+      },
+      {
+        "id": "kitsu:210:535",
+        "title": "An Old Scar and the Detective's Spirit",
+        "season": 6,
+        "episode": 535,
+        "overview": "Development for Superintendent Matsumoto, Takagi, and Satō.\n\n• Manga 667-673 · V64F4-10\n• Focus: Superintendent Matsumoto, Takagi, Satō"
+      },
+      {
+        "id": "kitsu:210:537",
+        "title": "Kaitou Kid vs the Strongest Safe (Part 1)",
+        "season": 6,
+        "episode": 537,
+        "overview": "Kaitō Kid.\n\n• Manga 674-676 · V64F11-V65F2\n• Focus: Kaitō Kid"
+      },
+      {
+        "id": "kitsu:210:538",
+        "title": "Kaitou Kid vs the Strongest Safe (Part 2)",
+        "season": 6,
+        "episode": 538,
+        "overview": "Kaitō Kid.\n\n• Manga 674-676 · V64F11-V65F2\n• Focus: Kaitō Kid"
+      },
+      {
+        "id": "kitsu:210:542",
+        "title": "The Disappearing Fish at Ikkaku Rock (Part 1) ★Main Plot",
+        "season": 6,
+        "episode": 542,
+        "overview": "Subaru development.\n\n• Manga 664-666 · V64F1-3\n• Focus: Subaru"
+      },
+      {
+        "id": "kitsu:210:543",
+        "title": "The Disappearing Fish at Ikkaku Rock (Part 2) ★Main Plot",
+        "season": 6,
+        "episode": 543,
+        "overview": "Subaru development.\n\n• Manga 664-666 · V64F1-3\n• Focus: Subaru"
+      },
+      {
+        "id": "kitsu:210:557",
+        "title": "A Dangerous Party of Two",
+        "season": 6,
+        "episode": 557,
+        "overview": "Some character stuff for some of the main characters, introduces Morofushi Takaaki, and some Inspector Yamato and Uehara development.\n\n• Manga 680-686 · V65F6-V66F1\n• Focus: Morofushi Takaaki, Inspector Yamato, Uehara"
+      },
+      {
+        "id": "kitsu:210:558",
+        "title": "The Mansion of Death and the Red Wall (Three Visits)",
+        "season": 6,
+        "episode": 558,
+        "overview": "Some character stuff for some of the main characters, introduces Morofushi Takaaki, and some Inspector Yamato and Uehara development.\n\n• Manga 680-686 · V65F6-V66F1\n• Focus: Morofushi Takaaki, Inspector Yamato, Uehara"
+      },
+      {
+        "id": "kitsu:210:559",
+        "title": "The Mansion of Death and the Red Wall (Item in Hand)",
+        "season": 6,
+        "episode": 559,
+        "overview": "Some character stuff for some of the main characters, introduces Morofushi Takaaki, and some Inspector Yamato and Uehara development.\n\n• Manga 680-686 · V65F6-V66F1\n• Focus: Morofushi Takaaki, Inspector Yamato, Uehara"
+      },
+      {
+        "id": "kitsu:210:560",
+        "title": "The Mansion of Death and the Red Wall (The Late Koumei)",
+        "season": 6,
+        "episode": 560,
+        "overview": "Some character stuff for some of the main characters, introduces Morofushi Takaaki, and some Inspector Yamato and Uehara development.\n\n• Manga 680-686 · V65F6-V66F1\n• Focus: Morofushi Takaaki, Inspector Yamato, Uehara"
+      },
+      {
+        "id": "kitsu:210:561",
+        "title": "The Mansion of Death and the Red Wall (Empty Fort Strategy)",
+        "season": 6,
+        "episode": 561,
+        "overview": "Some character stuff for some of the main characters, introduces Morofushi Takaaki, and some Inspector Yamato and Uehara development.\n\n• Manga 680-686 · V65F6-V66F1\n• Focus: Morofushi Takaaki, Inspector Yamato, Uehara"
+      },
+      {
+        "id": "kitsu:210:563",
+        "title": "Detective Boys vs. Burglar Gang (Turmoil) ★Main Plot",
+        "season": 6,
+        "episode": 563,
+        "overview": "Big FBI and Black Organization goings on.\n\n• Manga 677-679 · V65F3-5\n• Focus: FBI, Black Organization"
+      },
+      {
+        "id": "kitsu:210:564",
+        "title": "Detective Boys vs. Burglar Gang (Silence) ★Main Plot",
+        "season": 6,
+        "episode": 564,
+        "overview": "Big FBI and Black Organization goings on.\n\n• Manga 677-679 · V65F3-5\n• Focus: FBI, Black Organization"
+      },
+      {
+        "id": "kitsu:210:568",
+        "title": "Inspector Shiratori, Memories of the Cherry Blossom (Part 1)",
+        "season": 6,
+        "episode": 568,
+        "overview": "Inspector Shiratori and Kobayashi-sensei development.\n\n• Manga 687-689 · V66F2-4\n• Focus: Inspector Shiratori, Kobayashi-sensei"
+      },
+      {
+        "id": "kitsu:210:569",
+        "title": "Inspector Shiratori, Memories of the Cherry Blossom (Part 2)",
+        "season": 6,
+        "episode": 569,
+        "overview": "Inspector Shiratori and Kobayashi-sensei development.\n\n• Manga 687-689 · V66F2-4\n• Focus: Inspector Shiratori, Kobayashi-sensei\n\n▶ Watch Movie 13 — The Raven Chaser next"
+      },
+      {
+        "id": "kitsu:210:573",
+        "title": "The Whereabouts of the Embarrassing Charm (Part 1)",
+        "season": 6,
+        "episode": 573,
+        "overview": "Heiji case.\n\n• Manga 693-695 · V66F8-10\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:574",
+        "title": "The Whereabouts of the Embarrassing Charm (Part 2)",
+        "season": 6,
+        "episode": 574,
+        "overview": "Heiji case.\n\n• Manga 693-695 · V66F8-10\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:578",
+        "title": "The Crisis Beckoned by the Red Omen ★Main Plot",
+        "season": 6,
+        "episode": 578,
+        "overview": "Subaru and Jodie development, and some Black Organization activity.\n\n• Manga 699-704 · V67F3-8\n• Focus: Subaru, Jodie, Black Organization"
+      },
+      {
+        "id": "kitsu:210:579",
+        "title": "The Suggestion of Black Thirteen ★Main Plot",
+        "season": 6,
+        "episode": 579,
+        "overview": "Subaru and Jodie development, and some Black Organization activity.\n\n• Manga 699-704 · V67F3-8\n• Focus: Subaru, Jodie, Black Organization"
+      },
+      {
+        "id": "kitsu:210:580",
+        "title": "The Black Time Limit Drawing Near ★Main Plot",
+        "season": 6,
+        "episode": 580,
+        "overview": "Subaru and Jodie development, and some Black Organization activity.\n\n• Manga 699-704 · V67F3-8\n• Focus: Subaru, Jodie, Black Organization"
+      },
+      {
+        "id": "kitsu:210:581",
+        "title": "The Red Trembling Target ★Main Plot",
+        "season": 6,
+        "episode": 581,
+        "overview": "Subaru and Jodie development, and some Black Organization activity.\n\n• Manga 699-704 · V67F3-8\n• Focus: Subaru, Jodie, Black Organization"
+      },
+      {
+        "id": "kitsu:210:583",
+        "title": "Teacher Kobayashi's Love",
+        "season": 6,
+        "episode": 583,
+        "overview": "Inspector Shiratori and Kobayashi-sensei development.\n\n• Manga 705-708 · V67F9-V68F1\n• Focus: Inspector Shiratori, Kobayashi-sensei"
+      },
+      {
+        "id": "kitsu:210:584",
+        "title": "Inspector Shiratori's Broken Heart",
+        "season": 6,
+        "episode": 584,
+        "overview": "Inspector Shiratori and Kobayashi-sensei development.\n\n• Manga 705-708 · V67F9-V68F1\n• Focus: Inspector Shiratori, Kobayashi-sensei"
+      },
+      {
+        "id": "kitsu:210:585",
+        "title": "Timeless Sakura's Love",
+        "season": 6,
+        "episode": 585,
+        "overview": "Inspector Shiratori and Kobayashi-sensei development.\n\n• Manga 705-708 · V67F9-V68F1\n• Focus: Inspector Shiratori, Kobayashi-sensei"
+      },
+      {
+        "id": "kitsu:210:586",
+        "title": "The Kirin's Horn Vanished into Darkness",
+        "season": 6,
+        "episode": 586,
+        "overview": "\n\n• Manga 712-715 · V68F5-8\n• Focus: Kaitō Kid"
+      },
+      {
+        "id": "kitsu:210:587",
+        "title": "Kid vs Four God's Detective Team",
+        "season": 6,
+        "episode": 587,
+        "overview": "\n\n• Manga 712-715 · V68F5-8\n• Focus: Kaitō Kid"
+      },
+      {
+        "id": "kitsu:210:592",
+        "title": "The Detective Memoir of Monkey and Rake (Part 1)",
+        "season": 6,
+        "episode": 592,
+        "overview": "Ran development.\n\n• Manga 716-718 · V68F9-11\n• Focus: Ran"
+      },
+      {
+        "id": "kitsu:210:593",
+        "title": "The Detective Memoir of Monkey and Rake (Part 2)",
+        "season": 6,
+        "episode": 593,
+        "overview": "Ran development.\n\n• Manga 716-718 · V68F9-11\n• Focus: Ran"
+      },
+      {
+        "id": "kitsu:210:610",
+        "title": "The Victim is Shinichi Kudo",
+        "season": 7,
+        "episode": 610,
+        "overview": "Heiji case.\n\n• Manga 734-740 · V70F5-11\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:611",
+        "title": "Inubushi Castle, The Ablazed Demon Dog (Will-o'-The-Wisp Chapter)",
+        "season": 7,
+        "episode": 611,
+        "overview": "Heiji case.\n\n• Manga 734-740 · V70F5-11\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:612",
+        "title": "Inubushi Castle, The Ablazed Demon Dog (Footsteps Chapter)",
+        "season": 7,
+        "episode": 612,
+        "overview": "Heiji case.\n\n• Manga 734-740 · V70F5-11\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:613",
+        "title": "Inubushi Castle, The Ablazed Demon Dog (Chapter of Princess)",
+        "season": 7,
+        "episode": 613,
+        "overview": "Heiji case.\n\n• Manga 734-740 · V70F5-11\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:616",
+        "title": "Holmes' Revelation (Holmes' Apprentice) ★Main Plot",
+        "season": 7,
+        "episode": 616,
+        "overview": "“Holmes’ Revelation”—Major development for the main characters.\n\n• Manga 743-752 · V71F3-V72F1"
+      },
+      {
+        "id": "kitsu:210:617",
+        "title": "Holmes' Revelation (Love is 0) ★Main Plot",
+        "season": 7,
+        "episode": 617,
+        "overview": "“Holmes’ Revelation”—Major development for the main characters.\n\n• Manga 743-752 · V71F3-V72F1"
+      },
+      {
+        "id": "kitsu:210:618",
+        "title": "Holmes' Revelation (Satan) ★Main Plot",
+        "season": 7,
+        "episode": 618,
+        "overview": "“Holmes’ Revelation”—Major development for the main characters.\n\n• Manga 743-752 · V71F3-V72F1"
+      },
+      {
+        "id": "kitsu:210:619",
+        "title": "Holmes' Revelation (Code Break) ★Main Plot",
+        "season": 7,
+        "episode": 619,
+        "overview": "“Holmes’ Revelation”—Major development for the main characters.\n\n• Manga 743-752 · V71F3-V72F1"
+      },
+      {
+        "id": "kitsu:210:620",
+        "title": "Holmes' Revelation (Grass Court Queen) ★Main Plot",
+        "season": 7,
+        "episode": 620,
+        "overview": "“Holmes’ Revelation”—Major development for the main characters.\n\n• Manga 743-752 · V71F3-V72F1"
+      },
+      {
+        "id": "kitsu:210:621",
+        "title": "Holmes' Revelation (0 is Start) ★Main Plot",
+        "season": 7,
+        "episode": 621,
+        "overview": "“Holmes’ Revelation”—Major development for the main characters.\n\n• Manga 743-752 · V71F3-V72F1"
+      },
+      {
+        "id": "kitsu:210:622",
+        "title": "Emergency Situation 252 (Part 1) ★Main Plot",
+        "season": 7,
+        "episode": 622,
+        "overview": "Haibara and Subaru development.\n\n• Manga 753-755 · V72F2-4\n• Focus: Haibara, Subaru"
+      },
+      {
+        "id": "kitsu:210:623",
+        "title": "Emergency Situation 252 (Part 2) ★Main Plot",
+        "season": 7,
+        "episode": 623,
+        "overview": "Haibara and Subaru development.\n\n• Manga 753-755 · V72F2-4\n• Focus: Haibara, Subaru"
+      },
+      {
+        "id": "kitsu:210:624",
+        "title": "A Video Letter of First Love",
+        "season": 7,
+        "episode": 624,
+        "overview": "Introduces Miike Naeko.\n\n• Manga 741-742 · V71F1-2\n• Focus: Miike Naeko"
+      },
+      {
+        "id": "kitsu:210:627",
+        "title": "The Ryoma Treasure Battle Between Conan and Kid (Part 1)",
+        "season": 7,
+        "episode": 627,
+        "overview": "Kaitō Kid.\n\n• Manga DC731-733 · V70F2-4 [prologue MK29-30|V5C1-2]\n• Focus: Kaitō Kid"
+      },
+      {
+        "id": "kitsu:210:628",
+        "title": "The Ryoma Treasure Battle Between Conan and Kid (Part 2)",
+        "season": 7,
+        "episode": 628,
+        "overview": "Kaitō Kid.\n\n• Manga DC731-733 · V70F2-4 [prologue MK29-30|V5C1-2]\n• Focus: Kaitō Kid\n\n▶ Watch Movie 14 — The Lost Ship in the Sky next"
+      },
+      {
+        "id": "kitsu:210:646",
+        "title": "Deduction Showdown at the Haunted Hotel (Part 1) ★Main Plot",
+        "season": 7,
+        "episode": 646,
+        "overview": ": Introduces Sera Masumi.\n\n• Manga 768-770 · V73F6-8\n• Focus: Sera Masumi"
+      },
+      {
+        "id": "kitsu:210:647",
+        "title": "Deduction Showdown at the Haunted Hotel (Part 2) ★Main Plot",
+        "season": 7,
+        "episode": 647,
+        "overview": ": Introduces Sera Masumi.\n\n• Manga 768-770 · V73F6-8\n• Focus: Sera Masumi"
+      },
+      {
+        "id": "kitsu:210:648",
+        "title": "The Case of the Besieged Detective Agency (Outbreak) ★Main Plot",
+        "season": 7,
+        "episode": 648,
+        "overview": ": Sera development.\n\n• Manga 771-774 · V73F9-V74F1\n• Focus: Sera"
+      },
+      {
+        "id": "kitsu:210:649",
+        "title": "The Case of the Besieged Detective Agency (Sniping) ★Main Plot",
+        "season": 7,
+        "episode": 649,
+        "overview": ": Sera development.\n\n• Manga 771-774 · V73F9-V74F1\n• Focus: Sera"
+      },
+      {
+        "id": "kitsu:210:650",
+        "title": "The Case of the Besieged Detective Agency (Release) ★Main Plot",
+        "season": 7,
+        "episode": 650,
+        "overview": ": Sera development.\n\n• Manga 771-774 · V73F9-V74F1\n• Focus: Sera\n\n▶ Watch Movie 15 — Quarter of Silence next"
+      },
+      {
+        "id": "kitsu:210:651",
+        "title": "Conan vs. Heiji, The Deduction Showdown Between the Detective of the East and West (1 Hour Special) ★Main Plot",
+        "season": 7,
+        "episode": 651,
+        "overview": "Heiji case. Also some Sera development.\n\n• 1 Hour Special\n• Manga 778-780 · V74F5-7\n• Focus: Heiji, Sera"
+      },
+      {
+        "id": "kitsu:210:652",
+        "title": "The Design of Poison and Illusion (EYE)",
+        "season": 7,
+        "episode": 652,
+        "overview": "Heiji case. Introduces Yonehara Sakurako.\n\n• Manga 781-786 · V74F8-V75F2\n• Focus: Heiji, Yonehara Sakurako"
+      },
+      {
+        "id": "kitsu:210:653",
+        "title": "The Design of Poison and Illusion (S)",
+        "season": 7,
+        "episode": 653,
+        "overview": "Heiji case. Introduces Yonehara Sakurako.\n\n• Manga 781-786 · V74F8-V75F2\n• Focus: Heiji, Yonehara Sakurako"
+      },
+      {
+        "id": "kitsu:210:654",
+        "title": "The Design of Poison and Illusion (Poison)",
+        "season": 7,
+        "episode": 654,
+        "overview": "Heiji case. Introduces Yonehara Sakurako.\n\n• Manga 781-786 · V74F8-V75F2\n• Focus: Heiji, Yonehara Sakurako"
+      },
+      {
+        "id": "kitsu:210:655",
+        "title": "The Design of Poison and Mirage (Illusion)",
+        "season": 7,
+        "episode": 655,
+        "overview": "Heiji case. Introduces Yonehara Sakurako.\n\n• Manga 781-786 · V74F8-V75F2\n• Focus: Heiji, Yonehara Sakurako"
+      },
+      {
+        "id": "kitsu:210:656",
+        "title": "The Professor's Video Site (Part 1) ★Main Plot",
+        "season": 7,
+        "episode": 656,
+        "overview": "Sera and Subaru development.\n\n• Manga 775-777 · V74F2-4\n• Focus: Sera, Subaru"
+      },
+      {
+        "id": "kitsu:210:657",
+        "title": "The Professor's Video Site (Part 2) ★Main Plot",
+        "season": 7,
+        "episode": 657,
+        "overview": "Sera and Subaru development.\n\n• Manga 775-777 · V74F2-4\n• Focus: Sera, Subaru"
+      },
+      {
+        "id": "kitsu:210:659",
+        "title": "Co-Investigating with a First Love (Part 1)",
+        "season": 7,
+        "episode": 659,
+        "overview": "Detective Chiba and Miike development.\n\n• Manga 790-792 · V75F6-8\n• Focus: Detective Chiba, Miike"
+      },
+      {
+        "id": "kitsu:210:660",
+        "title": "Co-Investigating with a First Love (Part 2)",
+        "season": 7,
+        "episode": 660,
+        "overview": "Detective Chiba and Miike development.\n\n• Manga 790-792 · V75F6-8\n• Focus: Detective Chiba, Miike"
+      },
+      {
+        "id": "kitsu:210:667",
+        "title": "Wedding Eve (Part 1) ★Main Plot",
+        "season": 7,
+        "episode": 667,
+        "overview": "Introduces Amuro Tōru.\n\n• Manga 793-795 · V75F9-11\n• Focus: Amuro Tōru"
+      },
+      {
+        "id": "kitsu:210:668",
+        "title": "Wedding Eve (Part 2) ★Main Plot",
+        "season": 7,
+        "episode": 668,
+        "overview": "Introduces Amuro Tōru.\n\n• Manga 793-795 · V75F9-11\n• Focus: Amuro Tōru"
+      },
+      {
+        "id": "kitsu:210:671",
+        "title": "Detectives' Nocturne (The Case) ★Main Plot",
+        "season": 7,
+        "episode": 671,
+        "overview": "“Detectives’ Nocturne”—Major development for Subaru, Sera, and Amuro, and some Black Organization.\n\n• Manga 796-800 · V76F1-5\n• Focus: Subaru, Sera, Amuro, Black Organization"
+      },
+      {
+        "id": "kitsu:210:672",
+        "title": "Detectives' Nocturne (Kidnapping) ★Main Plot",
+        "season": 7,
+        "episode": 672,
+        "overview": "“Detectives’ Nocturne”—Major development for Subaru, Sera, and Amuro, and some Black Organization.\n\n• Manga 796-800 · V76F1-5\n• Focus: Subaru, Sera, Amuro, Black Organization"
+      },
+      {
+        "id": "kitsu:210:673",
+        "title": "Detectives' Nocturne (Deduction) ★Main Plot",
+        "season": 7,
+        "episode": 673,
+        "overview": "“Detectives’ Nocturne”—Major development for Subaru, Sera, and Amuro, and some Black Organization.\n\n• Manga 796-800 · V76F1-5\n• Focus: Subaru, Sera, Amuro, Black Organization"
+      },
+      {
+        "id": "kitsu:210:674",
+        "title": "Detectives' Nocturne (Bourbon) ★Main Plot",
+        "season": 7,
+        "episode": 674,
+        "overview": "“Detectives’ Nocturne”—Major development for Subaru, Sera, and Amuro, and some Black Organization.\n\n• Manga 796-800 · V76F1-5\n• Focus: Subaru, Sera, Amuro, Black Organization"
+      },
+      {
+        "id": "kitsu:210:675",
+        "title": "Won't Forgive One Millimeter (Part 1) ★Main Plot",
+        "season": 7,
+        "episode": 675,
+        "overview": "Some mild Sera development and Black Organization buildup.\n\n• Manga 801-803 · V76F6-8\n• Focus: Sera, Black Organization"
+      },
+      {
+        "id": "kitsu:210:676",
+        "title": "Won't Forgive One Millimeter (Part 2) ★Main Plot",
+        "season": 7,
+        "episode": 676,
+        "overview": "Some mild Sera development and Black Organization buildup.\n\n• Manga 801-803 · V76F6-8\n• Focus: Sera, Black Organization"
+      },
+      {
+        "id": "kitsu:210:681",
+        "title": "The Life-Threatening Broadcast of Love (Begin Broadcasting) ★Main Plot",
+        "season": 7,
+        "episode": 681,
+        "overview": "“The Life-Threatening Broadcast of Love”—Major development for Satō and Takagi and lesser development for Sera and Amuro.\n\n• Manga 804-808 · V76F9-V77F2\n• Focus: Satō, Takagi, Sera, Amuro"
+      },
+      {
+        "id": "kitsu:210:682",
+        "title": "The Life-Threatening Broadcast of Love (Desperate Situation) ★Main Plot",
+        "season": 7,
+        "episode": 682,
+        "overview": "“The Life-Threatening Broadcast of Love”—Major development for Satō and Takagi and lesser development for Sera and Amuro.\n\n• Manga 804-808 · V76F9-V77F2\n• Focus: Satō, Takagi, Sera, Amuro"
+      },
+      {
+        "id": "kitsu:210:683",
+        "title": "The Life-Threatening Broadcast of Love (Enter the Scene) ★Main Plot",
+        "season": 7,
+        "episode": 683,
+        "overview": "“The Life-Threatening Broadcast of Love”—Major development for Satō and Takagi and lesser development for Sera and Amuro.\n\n• Manga 804-808 · V76F9-V77F2\n• Focus: Satō, Takagi, Sera, Amuro"
+      },
+      {
+        "id": "kitsu:210:684",
+        "title": "Froth, Steam, and Smoke (Part 1) ★Main Plot",
+        "season": 7,
+        "episode": 684,
+        "overview": "Haibara and Subaru development.\n\n• Manga 809-811 · V77F3-5\n• Focus: Haibara, Subaru"
+      },
+      {
+        "id": "kitsu:210:685",
+        "title": "Froth, Steam, and Smoke (Part 2) ★Main Plot",
+        "season": 7,
+        "episode": 685,
+        "overview": "Haibara and Subaru development.\n\n• Manga 809-811 · V77F3-5\n• Focus: Haibara, Subaru"
+      },
+      {
+        "id": "kitsu:210:690",
+        "title": "Yusaku Kudo's Cold Case‎ (Part 1) ★Main Plot",
+        "season": 7,
+        "episode": 690,
+        "overview": "Subaru, Sera, and Conan’s dad development.\n\n• Manga 812-814 · V77F6-8\n• Focus: Subaru, Sera, Conan’s dad"
+      },
+      {
+        "id": "kitsu:210:691",
+        "title": "Yusaku Kudo's Cold Case‎ (Part 2) ★Main Plot",
+        "season": 7,
+        "episode": 691,
+        "overview": "Subaru, Sera, and Conan’s dad development.\n\n• Manga 812-814 · V77F6-8\n• Focus: Subaru, Sera, Conan’s dad\n\n▶ Watch Movie 16 — The Eleventh Striker next"
+      },
+      {
+        "id": "kitsu:210:699",
+        "title": "The Shadow Approaching Haibara's Secret (Part 1) ★Main Plot",
+        "season": 7,
+        "episode": 699,
+        "overview": "Haibara and Sera development with a bit of important Subaru and Amuro. Build up for the following big event.\n\n• Manga 815-817 · V77F9-11\n• Focus: Haibara, Sera, Subaru, Amuro"
+      },
+      {
+        "id": "kitsu:210:700",
+        "title": "The Shadow Approaching Haibara's Secret (Part 2) ★Main Plot",
+        "season": 8,
+        "episode": 700,
+        "overview": "Haibara and Sera development with a bit of important Subaru and Amuro. Build up for the following big event.\n\n• Manga 815-817 · V77F9-11\n• Focus: Haibara, Sera, Subaru, Amuro"
+      },
+      {
+        "id": "kitsu:210:701",
+        "title": "The Raven Mystery Train (Departure) ★Main Plot",
+        "season": 8,
+        "episode": 701,
+        "overview": "“The Pitch Black Mystery Train”—Big Black Organization event AND Kaitō Kid at the same time. If that is somehow in some universe not enough for you, it has important development of varying degrees for Haibara, Conan’s mom, Shūichi, Subaru, Sera, and Amuro.\n\n• Manga 818-824 · V78F1-7\n• Focus: Black Organization, Kaitō Kid, Haibara, Conan’s mom, Shūichi, Subaru, Sera, Amuro"
+      },
+      {
+        "id": "kitsu:210:702",
+        "title": "The Raven Mystery Train (Tunnel) ★Main Plot",
+        "season": 8,
+        "episode": 702,
+        "overview": "“The Pitch Black Mystery Train”—Big Black Organization event AND Kaitō Kid at the same time. If that is somehow in some universe not enough for you, it has important development of varying degrees for Haibara, Conan’s mom, Shūichi, Subaru, Sera, and Amuro.\n\n• Manga 818-824 · V78F1-7\n• Focus: Black Organization, Kaitō Kid, Haibara, Conan’s mom, Shūichi, Subaru, Sera, Amuro"
+      },
+      {
+        "id": "kitsu:210:703",
+        "title": "The Raven Mystery Train (Junction) ★Main Plot",
+        "season": 8,
+        "episode": 703,
+        "overview": "“The Pitch Black Mystery Train”—Big Black Organization event AND Kaitō Kid at the same time. If that is somehow in some universe not enough for you, it has important development of varying degrees for Haibara, Conan’s mom, Shūichi, Subaru, Sera, and Amuro.\n\n• Manga 818-824 · V78F1-7\n• Focus: Black Organization, Kaitō Kid, Haibara, Conan’s mom, Shūichi, Subaru, Sera, Amuro"
+      },
+      {
+        "id": "kitsu:210:704",
+        "title": "The Raven Mystery Train (Final Destination) ★Main Plot",
+        "season": 8,
+        "episode": 704,
+        "overview": "“The Pitch Black Mystery Train”—Big Black Organization event AND Kaitō Kid at the same time. If that is somehow in some universe not enough for you, it has important development of varying degrees for Haibara, Conan’s mom, Shūichi, Subaru, Sera, and Amuro.\n\n• Manga 818-824 · V78F1-7\n• Focus: Black Organization, Kaitō Kid, Haibara, Conan’s mom, Shūichi, Subaru, Sera, Amuro"
+      },
+      {
+        "id": "kitsu:210:705",
+        "title": "Conan Inside The Locked Room ★Main Plot",
+        "season": 8,
+        "episode": 705,
+        "overview": "Some followup with some plan details and Amuro.\n\n• Manga 825-827 · V78F8-10\n• Focus: Amuro"
+      },
+      {
+        "id": "kitsu:210:706",
+        "title": "Bourbon Figures It Out ★Main Plot",
+        "season": 8,
+        "episode": 706,
+        "overview": "Some followup with some plan details and Amuro.\n\n• Manga 825-827 · V78F8-10\n• Focus: Amuro"
+      },
+      {
+        "id": "kitsu:210:710",
+        "title": "Everyone Was Watching (Part 1)",
+        "season": 8,
+        "episode": 710,
+        "overview": "Heiji case.\n\n• Manga 831-840 · V79F3-V80F1\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:711",
+        "title": "Everyone Was Watching (Part 2)",
+        "season": 8,
+        "episode": 711,
+        "overview": "Heiji case.\n\n• Manga 831-840 · V79F3-V80F1\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:712",
+        "title": "Hattori Heiji and the Vampire Mansion (Part 1)",
+        "season": 8,
+        "episode": 712,
+        "overview": "Heiji case.\n\n• Manga 831-840 · V79F3-V80F1\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:713",
+        "title": "Hattori Heiji and the Vampire Mansion (Part 2)",
+        "season": 8,
+        "episode": 713,
+        "overview": "Heiji case.\n\n• Manga 831-840 · V79F3-V80F1\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:714",
+        "title": "Hattori Heiji and the Vampire Mansion (Part 3)",
+        "season": 8,
+        "episode": 714,
+        "overview": "Heiji case.\n\n• Manga 831-840 · V79F3-V80F1\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:715",
+        "title": "Hattori Heiji and the Vampire Mansion (Part 4)",
+        "season": 8,
+        "episode": 715,
+        "overview": "Heiji case.\n\n• Manga 831-840 · V79F3-V80F1\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:722",
+        "title": "The Cold and Sweet Delivery (Part 1) ★Main Plot",
+        "season": 8,
+        "episode": 722,
+        "overview": "A bit of Amuro and Subaru development.\n\n• Manga 841-843 · V80F2-4\n• Focus: Amuro, Subaru"
+      },
+      {
+        "id": "kitsu:210:723",
+        "title": "The Cold and Sweet Delivery (Part 2) ★Main Plot",
+        "season": 8,
+        "episode": 723,
+        "overview": "A bit of Amuro and Subaru development.\n\n• Manga 841-843 · V80F2-4\n• Focus: Amuro, Subaru"
+      },
+      {
+        "id": "kitsu:210:724",
+        "title": "Kaitou Kid and the Blush Mermaid (Part 1)",
+        "season": 8,
+        "episode": 724,
+        "overview": "Kaitō Kid.\n\n• Manga 828-830 · V78F11-V29F2\n• Focus: Kaitō Kid"
+      },
+      {
+        "id": "kitsu:210:725",
+        "title": "Kaitou Kid and the Blush Mermaid (Part 2)",
+        "season": 8,
+        "episode": 725,
+        "overview": "Kaitō Kid.\n\n• Manga 828-830 · V78F11-V29F2\n• Focus: Kaitō Kid"
+      },
+      {
+        "id": "kitsu:210:727",
+        "title": "The Treasure Chest Filled With Fruits (Part 1) ★Main Plot",
+        "season": 8,
+        "episode": 727,
+        "overview": "Slight Sera development.\n\n• Manga 844-846 · V80F5-7\n• Focus: Sera"
+      },
+      {
+        "id": "kitsu:210:728",
+        "title": "The Treasure Chest Filled With Fruits (Part 2) ★Main Plot",
+        "season": 8,
+        "episode": 728,
+        "overview": "Slight Sera development.\n\n• Manga 844-846 · V80F5-7\n• Focus: Sera"
+      },
+      {
+        "id": "kitsu:210:731",
+        "title": "The Ex-Boyfriend Living Next to a Crime Scene (Part 1) ★Main Plot",
+        "season": 8,
+        "episode": 731,
+        "overview": "Introduces Haneda Shūkichi, a bit of development for Yumi, and a tiny bit of Chiba and Miike.\n\n• Manga 847-849 · V80F8-10\n• Focus: Haneda Shūkichi, Yumi, Chiba, Miike"
+      },
+      {
+        "id": "kitsu:210:732",
+        "title": "The Ex-Boyfriend Living Next to a Crime Scene (Part 2) ★Main Plot",
+        "season": 8,
+        "episode": 732,
+        "overview": "Introduces Haneda Shūkichi, a bit of development for Yumi, and a tiny bit of Chiba and Miike.\n\n• Manga 847-849 · V80F8-10\n• Focus: Haneda Shūkichi, Yumi, Chiba, Miike"
+      },
+      {
+        "id": "kitsu:210:734",
+        "title": "Jodie's Memories and the Cherry Blossom Viewing Trap ★Main Plot",
+        "season": 8,
+        "episode": 734,
+        "overview": "Some Black Organization with a bit of Jodie development.\n\n• 1 Hour Special\n• Manga 850-852 · V80F11-V81F2\n• Focus: Black Organization, Jodie\n\n▶ Watch Movie 17 — Private Eye in the Distant Sea next"
+      },
+      {
+        "id": "kitsu:210:740",
+        "title": "Bathroom Where Ran Collapsed As Well (Part 1)",
+        "season": 8,
+        "episode": 740,
+        "overview": "Minor Sera development. Also starts with a recap of the only tiny part of 738-739 that has any relevance to the plot, so watching this case makes that one easily skippable.\n\n• Manga 856-858 · V81F6-8\n• Focus: Sera"
+      },
+      {
+        "id": "kitsu:210:741",
+        "title": "Bathroom Where Ran Collapsed As Well (Part 2)",
+        "season": 8,
+        "episode": 741,
+        "overview": "Minor Sera development. Also starts with a recap of the only tiny part of 738-739 that has any relevance to the plot, so watching this case makes that one easily skippable.\n\n• Manga 856-858 · V81F6-8\n• Focus: Sera"
+      },
+      {
+        "id": "kitsu:210:744",
+        "title": "The Suspect, Makoto Kyogoku (Part 1) ★Main Plot",
+        "season": 8,
+        "episode": 744,
+        "overview": "Some Makoto and significant Sera development.\n\n• Manga 859-861 · V81F9-11\n• Focus: Makoto, Sera"
+      },
+      {
+        "id": "kitsu:210:745",
+        "title": "The Suspect, Makoto Kyogoku (Part 2) ★Main Plot",
+        "season": 8,
+        "episode": 745,
+        "overview": "Some Makoto and significant Sera development.\n\n• Manga 859-861 · V81F9-11\n• Focus: Makoto, Sera"
+      },
+      {
+        "id": "kitsu:210:746",
+        "title": "Kaito Kid VS Makoto Kyogoku (Part 1)",
+        "season": 8,
+        "episode": 746,
+        "overview": "“Kaitō Kid VS Kyōgoku Makoto”\n\n• Manga 862-864 · V82F1-3"
+      },
+      {
+        "id": "kitsu:210:747",
+        "title": "Kaito Kid VS Makoto Kyogoku (Part 2)",
+        "season": 8,
+        "episode": 747,
+        "overview": "“Kaitō Kid VS Kyōgoku Makoto”\n\n• Manga 862-864 · V82F1-3"
+      },
+      {
+        "id": "kitsu:210:748",
+        "title": "Metropolitan Police Detective Love Story (Confession)",
+        "season": 8,
+        "episode": 748,
+        "overview": "“Metropolitan Police Detective Love Story (9)”\n\n• Manga 869-871 · V82F8-10"
+      },
+      {
+        "id": "kitsu:210:749",
+        "title": "Metropolitan Police Detective Love Story (Truth)",
+        "season": 8,
+        "episode": 749,
+        "overview": "“Metropolitan Police Detective Love Story (9)”\n\n• Manga 869-871 · V82F8-10"
+      },
+      {
+        "id": "kitsu:210:754",
+        "title": "The Tragedy of the Red Woman (Steam) ★Main Plot",
+        "season": 8,
+        "episode": 754,
+        "overview": "Sera development and introduces Sera’s sister from outside the territory.\n\n• Manga 872-875 · V82F11-V83F3\n• Focus: Sera, Sera’s sister from outside the territory"
+      },
+      {
+        "id": "kitsu:210:755",
+        "title": "Tragedy of the Red Woman (Evil Spirit) ★Main Plot",
+        "season": 8,
+        "episode": 755,
+        "overview": "Sera development and introduces Sera’s sister from outside the territory.\n\n• Manga 872-875 · V82F11-V83F3\n• Focus: Sera, Sera’s sister from outside the territory"
+      },
+      {
+        "id": "kitsu:210:756",
+        "title": "Tragedy of the Red Woman (Revenge) ★Main Plot",
+        "season": 8,
+        "episode": 756,
+        "overview": "Sera development and introduces Sera’s sister from outside the territory.\n\n• Manga 872-875 · V82F11-V83F3\n• Focus: Sera, Sera’s sister from outside the territory"
+      },
+      {
+        "id": "kitsu:210:759",
+        "title": "The Romance Novel with the Unexpected Conclusion (Part 1) ★Main Plot",
+        "season": 8,
+        "episode": 759,
+        "overview": "Sera and Sera’s outside sister development.\n\n• Manga 876-878 · V83F4-6\n• Focus: Sera, Sera’s outside sister"
+      },
+      {
+        "id": "kitsu:210:760",
+        "title": "The Romance Novel with the Unexpected Conclusion (Part 2) ★Main Plot",
+        "season": 8,
+        "episode": 760,
+        "overview": "Sera and Sera’s outside sister development.\n\n• Manga 876-878 · V83F4-6\n• Focus: Sera, Sera’s outside sister"
+      },
+      {
+        "id": "kitsu:210:763",
+        "title": "Conan and Heiji's Code of Love",
+        "season": 8,
+        "episode": 763,
+        "overview": "Heiji case.\n\n• Manga 879-881 · V83F7-9\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:764",
+        "title": "Conan and Heiji's Code of Love (Part 2)",
+        "season": 8,
+        "episode": 764,
+        "overview": "Heiji case.\n\n• Manga 879-881 · V83F7-9\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:770",
+        "title": "The Tense Tea Party, Part One! ★Main Plot",
+        "season": 8,
+        "episode": 770,
+        "overview": "Amuro development.\n\n• Manga 888-890 · V84F6-8\n• Focus: Amuro"
+      },
+      {
+        "id": "kitsu:210:771",
+        "title": "The Tense Tea Party (Part 2) ★Main Plot",
+        "season": 8,
+        "episode": 771,
+        "overview": "Amuro development.\n\n• Manga 888-890 · V84F6-8\n• Focus: Amuro"
+      },
+      {
+        "id": "kitsu:210:772",
+        "title": "Kudo Shinichi Aquarium Case (Part 1)",
+        "season": 8,
+        "episode": 772,
+        "overview": "Shinichi case.\n\n• Manga 882-884 · V83F10-V84F2\n• Focus: Shinichi"
+      },
+      {
+        "id": "kitsu:210:773",
+        "title": "Kudo Shinichi Aquarium Case (Part 2)",
+        "season": 8,
+        "episode": 773,
+        "overview": "Shinichi case.\n\n• Manga 882-884 · V83F10-V84F2\n• Focus: Shinichi"
+      },
+      {
+        "id": "kitsu:210:779",
+        "title": "The Scarlet Prologue ★Main Plot",
+        "season": 8,
+        "episode": 779,
+        "overview": "The “Scarlet” series. A Black Organization-related series with big development for Amuro, Subaru, and basically all of the FBI characters of any significance.\n\n• Manga 891-898 · V84F9-V85F5\n• Focus: Black Organization, Amuro, Subaru, FBI"
+      },
+      {
+        "id": "kitsu:210:780",
+        "title": "The Scarlet Pursuit ★Main Plot",
+        "season": 8,
+        "episode": 780,
+        "overview": "The “Scarlet” series. A Black Organization-related series with big development for Amuro, Subaru, and basically all of the FBI characters of any significance.\n\n• Manga 891-898 · V84F9-V85F5\n• Focus: Black Organization, Amuro, Subaru, FBI"
+      },
+      {
+        "id": "kitsu:210:781",
+        "title": "The Scarlet Intersection ★Main Plot",
+        "season": 8,
+        "episode": 781,
+        "overview": "The “Scarlet” series. A Black Organization-related series with big development for Amuro, Subaru, and basically all of the FBI characters of any significance.\n\n• Manga 891-898 · V84F9-V85F5\n• Focus: Black Organization, Amuro, Subaru, FBI"
+      },
+      {
+        "id": "kitsu:210:782",
+        "title": "The Scarlet Return ★Main Plot",
+        "season": 8,
+        "episode": 782,
+        "overview": "The “Scarlet” series. A Black Organization-related series with big development for Amuro, Subaru, and basically all of the FBI characters of any significance.\n\n• Manga 891-898 · V84F9-V85F5\n• Focus: Black Organization, Amuro, Subaru, FBI"
+      },
+      {
+        "id": "kitsu:210:783",
+        "title": "The Scarlet Truth ★Main Plot",
+        "season": 8,
+        "episode": 783,
+        "overview": "The “Scarlet” series. A Black Organization-related series with big development for Amuro, Subaru, and basically all of the FBI characters of any significance.\n\n• Manga 891-898 · V84F9-V85F5\n• Focus: Black Organization, Amuro, Subaru, FBI\n\n▶ Watch Movie 18 — Dimensional Sniper next"
+      },
+      {
+        "id": "kitsu:210:785",
+        "title": "Taiko Meijin's Match of Love (Part 1) ★Main Plot",
+        "season": 8,
+        "episode": 785,
+        "overview": "Haneda Shūkichi and Yumi development, plus a bit of Subaru and Sera’s outside sister.\n\n• Manga 899-902 · V85F6-9\n• Focus: Haneda Shūkichi, Yumi, Subaru, Sera’s outside sister"
+      },
+      {
+        "id": "kitsu:210:786",
+        "title": "Taiko Meijin's Match of Love (Part 2) ★Main Plot",
+        "season": 8,
+        "episode": 786,
+        "overview": "Haneda Shūkichi and Yumi development, plus a bit of Subaru and Sera’s outside sister.\n\n• Manga 899-902 · V85F6-9\n• Focus: Haneda Shūkichi, Yumi, Subaru, Sera’s outside sister"
+      },
+      {
+        "id": "kitsu:210:787",
+        "title": "The Mystery Sinking in the Midsummer Pool (Part 1) ★Main Plot",
+        "season": 8,
+        "episode": 787,
+        "overview": "Some Sera and Sera’s outside sister development.\n\n• Manga 903-905 · V85F10-V86F1\n• Focus: Sera, Sera’s outside sister"
+      },
+      {
+        "id": "kitsu:210:788",
+        "title": "The Mystery Sinking in the Midsummer Pool (Part 2) ★Main Plot",
+        "season": 8,
+        "episode": 788,
+        "overview": "Some Sera and Sera’s outside sister development.\n\n• Manga 903-905 · V85F10-V86F1\n• Focus: Sera, Sera’s outside sister"
+      },
+      {
+        "id": "kitsu:210:792",
+        "title": "Three First Discoverers (Part 1) ★Main Plot",
+        "season": 8,
+        "episode": 792,
+        "overview": "Some Black Organization info.\n\n• Manga 906-908 · V86F2-4\n• Focus: Black Organization"
+      },
+      {
+        "id": "kitsu:210:793",
+        "title": "Three First Discoverers (Part 2) ★Main Plot",
+        "season": 8,
+        "episode": 793,
+        "overview": "Some Black Organization info.\n\n• Manga 906-908 · V86F2-4\n• Focus: Black Organization"
+      },
+      {
+        "id": "kitsu:210:808",
+        "title": "The Kamaitachi Inn (Part 1)",
+        "season": 9,
+        "episode": 808,
+        "overview": "Heiji case.\n\n• Manga 909-912 · V86F5-8\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:809",
+        "title": "The Kamaitachi Inn (Part 2)",
+        "season": 9,
+        "episode": 809,
+        "overview": "Heiji case.\n\n• Manga 909-912 · V86F5-8\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:810",
+        "title": "The Darkness of the Prefectural Police (Part One) ★Main Plot",
+        "season": 9,
+        "episode": 810,
+        "overview": "Introduces Kuroda Hyōe, plus some development for Yamato, Uehara, and Morofushi.\n\n• Manga 913-917 · V86F9-V87F2\n• Focus: Kuroda Hyōe, Yamato, Uehara, Morofushi"
+      },
+      {
+        "id": "kitsu:210:811",
+        "title": "The Darkness of the Prefectural Police (Part 2) ★Main Plot",
+        "season": 9,
+        "episode": 811,
+        "overview": "Introduces Kuroda Hyōe, plus some development for Yamato, Uehara, and Morofushi.\n\n• Manga 913-917 · V86F9-V87F2\n• Focus: Kuroda Hyōe, Yamato, Uehara, Morofushi"
+      },
+      {
+        "id": "kitsu:210:812",
+        "title": "The Darkness of the Prefectural Police (Part 3) ★Main Plot",
+        "season": 9,
+        "episode": 812,
+        "overview": "Introduces Kuroda Hyōe, plus some development for Yamato, Uehara, and Morofushi.\n\n• Manga 913-917 · V86F9-V87F2\n• Focus: Kuroda Hyōe, Yamato, Uehara, Morofushi"
+      },
+      {
+        "id": "kitsu:210:814",
+        "title": "The Actress Blogger's Locked Room Case (Part 1)",
+        "season": 9,
+        "episode": 814,
+        "overview": "Kuroda development.\n\n• Manga 918-920 · V87F3-5\n• Focus: Kuroda"
+      },
+      {
+        "id": "kitsu:210:815",
+        "title": "The Actress Blogger's Locked Room Case (Part 2)",
+        "season": 9,
+        "episode": 815,
+        "overview": "Kuroda development.\n\n• Manga 918-920 · V87F3-5\n• Focus: Kuroda\n\n▶ Watch Movie 19 — Sunflowers of Inferno next"
+      },
+      {
+        "id": "kitsu:210:822",
+        "title": "The Suspects Are a Passionate Couple (Part 1)",
+        "season": 9,
+        "episode": 822,
+        "overview": "Some Kuroda followup.\n\n• Manga 925-927 · V87F10-V88F1\n• Focus: Kuroda"
+      },
+      {
+        "id": "kitsu:210:823",
+        "title": "The Suspects Are a Passionate Couple (Part 2)",
+        "season": 9,
+        "episode": 823,
+        "overview": "Some Kuroda followup.\n\n• Manga 925-927 · V87F10-V88F1\n• Focus: Kuroda"
+      },
+      {
+        "id": "kitsu:210:827",
+        "title": "Ramen to Die For 2 (Part 1) ★Main Plot",
+        "season": 9,
+        "episode": 827,
+        "overview": "Sera, Shūkichi, and Sera’s outside sister development.\n\n• Manga 928-930 · V88F2-4\n• Focus: Sera, Shūkichi, Sera’s outside sister"
+      },
+      {
+        "id": "kitsu:210:828",
+        "title": "Ramen to Die For 2 (Part 2) ★Main Plot",
+        "season": 9,
+        "episode": 828,
+        "overview": "Sera, Shūkichi, and Sera’s outside sister development.\n\n• Manga 928-930 · V88F2-4\n• Focus: Sera, Shūkichi, Sera’s outside sister"
+      },
+      {
+        "id": "kitsu:210:830",
+        "title": "A Cottage Surrounded By Zombies (Part One)",
+        "season": 9,
+        "episode": 830,
+        "overview": "Heiji case.\n\n• Manga 931-935 · V88F5-9\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:831",
+        "title": "A Cottage Surrounded By Zombies (Part Two)",
+        "season": 9,
+        "episode": 831,
+        "overview": "Heiji case.\n\n• Manga 931-935 · V88F5-9\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:832",
+        "title": "A Cottage Surrounded By Zombies (Part 3)",
+        "season": 9,
+        "episode": 832,
+        "overview": "Heiji case.\n\n• Manga 931-935 · V88F5-9\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:836",
+        "title": "The Unfriendly Girls Band (Part 1) ★Main Plot",
+        "season": 9,
+        "episode": 836,
+        "overview": "Amuro, Sera, and Shūichi development.\n\n• Manga 936-938 · V88F10-V89F1\n• Focus: Amuro, Sera, Shūichi"
+      },
+      {
+        "id": "kitsu:210:837",
+        "title": "The Unfriendly Girls Band (Part Two) ★Main Plot",
+        "season": 9,
+        "episode": 837,
+        "overview": "Amuro, Sera, and Shūichi development.\n\n• Manga 936-938 · V88F10-V89F1\n• Focus: Amuro, Sera, Shūichi"
+      },
+      {
+        "id": "kitsu:210:843",
+        "title": "The Detectives in a Grove (Part One)",
+        "season": 9,
+        "episode": 843,
+        "overview": "Tiny hints related to Sera’s outside sister.\n\n• Manga 939-941 · V89F2-4\n• Focus: Sera’s outside sister"
+      },
+      {
+        "id": "kitsu:210:844",
+        "title": "The Detectives in a Grove (Part Two)",
+        "season": 9,
+        "episode": 844,
+        "overview": "Tiny hints related to Sera’s outside sister.\n\n• Manga 939-941 · V89F2-4\n• Focus: Sera’s outside sister"
+      },
+      {
+        "id": "kitsu:210:847",
+        "title": "Chiba's UFO Case (Part One)",
+        "season": 9,
+        "episode": 847,
+        "overview": "Detective Chiba and Miike development. There is also a lot of random recap for little details from the main plot, in case you need a refresher.\n\n• Manga 942-944 · V89F5-7\n• Focus: Detective Chiba, Miike"
+      },
+      {
+        "id": "kitsu:210:848",
+        "title": "Chiba's UFO Case (Part Two)",
+        "season": 9,
+        "episode": 848,
+        "overview": "Detective Chiba and Miike development. There is also a lot of random recap for little details from the main plot, in case you need a refresher.\n\n• Manga 942-944 · V89F5-7\n• Focus: Detective Chiba, Miike"
+      },
+      {
+        "id": "kitsu:210:849",
+        "title": "The Marriage Registration's Password (Part One) ★Main Plot",
+        "season": 9,
+        "episode": 849,
+        "overview": "Yumi development, plus contains some really important background on Haneda Shūkichi if you look really closely. Also relevant to Shūichi.\n\n• Manga 945-947 · V89F8-10\n• Focus: Yumi, Haneda Shūkichi, Shūichi"
+      },
+      {
+        "id": "kitsu:210:850",
+        "title": "The Marriage Registration's Password (Part Two) ★Main Plot",
+        "season": 9,
+        "episode": 850,
+        "overview": "Yumi development, plus contains some really important background on Haneda Shūkichi if you look really closely. Also relevant to Shūichi.\n\n• Manga 945-947 · V89F8-10\n• Focus: Yumi, Haneda Shūkichi, Shūichi"
+      },
+      {
+        "id": "kitsu:210:853",
+        "title": "Memories From Sakura Class (Ran GIRL)",
+        "season": 9,
+        "episode": 853,
+        "overview": "Shinichi case.\n\n• Manga 921-924 · V87F6-9\n• Focus: Shinichi"
+      },
+      {
+        "id": "kitsu:210:854",
+        "title": "Memories From Sakura Class (Shinichi BOY)",
+        "season": 9,
+        "episode": 854,
+        "overview": "Shinichi case.\n\n• Manga 921-924 · V87F6-9\n• Focus: Shinichi"
+      },
+      {
+        "id": "kitsu:210:861",
+        "title": "Just Like a 17 Year Old Crime Scene (Part One) ★Main Plot",
+        "season": 9,
+        "episode": 861,
+        "overview": "Black Organization setup with some Subaru, Amuro, Sera, and Sera’s outside sister development.\n\n• Manga 948-957 · V89F11-V90F9\n• Focus: Black Organization, Subaru, Amuro, Sera, Sera’s outside sister"
+      },
+      {
+        "id": "kitsu:210:862",
+        "title": "Just Like a 17 Year Old Crime Scene (Part Two) ★Main Plot",
+        "season": 9,
+        "episode": 862,
+        "overview": "Black Organization setup with some Subaru, Amuro, Sera, and Sera’s outside sister development.\n\n• Manga 948-957 · V89F11-V90F9\n• Focus: Black Organization, Subaru, Amuro, Sera, Sera’s outside sister"
+      },
+      {
+        "id": "kitsu:210:863",
+        "title": "The Spirit Detective's Murder (Part One) ★Main Plot",
+        "season": 9,
+        "episode": 863,
+        "overview": "Black Organization setup with some Subaru, Amuro, Sera, and Sera’s outside sister development.\n\n• Manga 948-957 · V89F11-V90F9\n• Focus: Black Organization, Subaru, Amuro, Sera, Sera’s outside sister"
+      },
+      {
+        "id": "kitsu:210:864",
+        "title": "The Spirit Detective's Murder (Part Two) ★Main Plot",
+        "season": 9,
+        "episode": 864,
+        "overview": "Black Organization setup with some Subaru, Amuro, Sera, and Sera’s outside sister development.\n\n• Manga 948-957 · V89F11-V90F9\n• Focus: Black Organization, Subaru, Amuro, Sera, Sera’s outside sister"
+      },
+      {
+        "id": "kitsu:210:866",
+        "title": "The Traitor's Stage (Part 1) ★Main Plot",
+        "season": 9,
+        "episode": 866,
+        "overview": "Black Organization setup with some Subaru, Amuro, Sera, and Sera’s outside sister development.\n\n• Manga 948-957 · V89F11-V90F9\n• Focus: Black Organization, Subaru, Amuro, Sera, Sera’s outside sister"
+      },
+      {
+        "id": "kitsu:210:867",
+        "title": "The Traitor's Stage (Part Two) ★Main Plot",
+        "season": 9,
+        "episode": 867,
+        "overview": "Black Organization setup with some Subaru, Amuro, Sera, and Sera’s outside sister development.\n\n• Manga 948-957 · V89F11-V90F9\n• Focus: Black Organization, Subaru, Amuro, Sera, Sera’s outside sister\n\n▶ Watch Movie 20 — The Darkest Nightmare next"
+      },
+      {
+        "id": "kitsu:210:872",
+        "title": "Conan and Heiji's Nue Legend (Roar Chapter)",
+        "season": 9,
+        "episode": 872,
+        "overview": "Heiji case. Introduces Ōoka Momiji. Also a very brief follow-up for Ran from episodes 866-867 that doesn’t give any new information nor turn into anything and is ultimately just a handwave, if you’re into that and really can’t wait to see it.\n\n• Manga 958-962 · V90F10-V91F3\n• Focus: Heiji, Ōoka Momiji, Ran"
+      },
+      {
+        "id": "kitsu:210:873",
+        "title": "Conan and Heiji's Nue Legend",
+        "season": 9,
+        "episode": 873,
+        "overview": "Heiji case. Introduces Ōoka Momiji. Also a very brief follow-up for Ran from episodes 866-867 that doesn’t give any new information nor turn into anything and is ultimately just a handwave, if you’re into that and really can’t wait to see it.\n\n• Manga 958-962 · V90F10-V91F3\n• Focus: Heiji, Ōoka Momiji, Ran"
+      },
+      {
+        "id": "kitsu:210:874",
+        "title": "Conan and Heiji's Nue Legend (Resolution Arc)",
+        "season": 9,
+        "episode": 874,
+        "overview": "Heiji case. Introduces Ōoka Momiji. Also a very brief follow-up for Ran from episodes 866-867 that doesn’t give any new information nor turn into anything and is ultimately just a handwave, if you’re into that and really can’t wait to see it.\n\n• Manga 958-962 · V90F10-V91F3\n• Focus: Heiji, Ōoka Momiji, Ran"
+      },
+      {
+        "id": "kitsu:210:878",
+        "title": "The Blind Spot in the Changing Room (Part One) ★Main Plot",
+        "season": 9,
+        "episode": 878,
+        "overview": "Sera development.\n\n• Manga 969-971 · V91F10-V92F1\n• Focus: Sera"
+      },
+      {
+        "id": "kitsu:210:879",
+        "title": "The Blind Spot in the Changing Room (Part Two) ★Main Plot",
+        "season": 9,
+        "episode": 879,
+        "overview": "Sera development.\n\n• Manga 969-971 · V91F10-V92F1\n• Focus: Sera"
+      },
+      {
+        "id": "kitsu:210:881",
+        "title": "The Magician of the Waves (Part One) ★Main Plot",
+        "season": 9,
+        "episode": 881,
+        "overview": "Shinichi case, with development for Sera, Shūichi, et al.\n\n• Manga 972-974 · V92F2-4\n• Focus: Shinichi, Sera, Shūichi"
+      },
+      {
+        "id": "kitsu:210:882",
+        "title": "The Magician of the Waves (Part Two) ★Main Plot",
+        "season": 9,
+        "episode": 882,
+        "overview": "Shinichi case, with development for Sera, Shūichi, et al.\n\n• Manga 972-974 · V92F2-4\n• Focus: Shinichi, Sera, Shūichi"
+      },
+      {
+        "id": "kitsu:210:885",
+        "title": "Solving Mysteries at the Poirot Cafe (Part One)",
+        "season": 9,
+        "episode": 885,
+        "overview": "Heiji and Amuro case. Introduces Iori Muga. And some Momiji development.\n\n• Manga 981-983 · V92F11-V93F2\n• Focus: Heiji, Amuro, Iori Muga, Momiji"
+      },
+      {
+        "id": "kitsu:210:886",
+        "title": "Solving Mysteries at the Poirot Café (Part Two)",
+        "season": 9,
+        "episode": 886,
+        "overview": "Heiji and Amuro case. Introduces Iori Muga. And some Momiji development.\n\n• Manga 981-983 · V92F11-V93F2\n• Focus: Heiji, Amuro, Iori Muga, Momiji"
+      },
+      {
+        "id": "kitsu:210:887",
+        "title": "Kaito Kid and the Trick Box (Part One)",
+        "season": 9,
+        "episode": 887,
+        "overview": "Kaitō Kid.\n\n• Manga 963-965 · V91F4-6\n• Focus: Kaitō Kid"
+      },
+      {
+        "id": "kitsu:210:888",
+        "title": "Kaito Kid and the Trick Box (Part Two)",
+        "season": 9,
+        "episode": 888,
+        "overview": "Kaitō Kid.\n\n• Manga 963-965 · V91F4-6\n• Focus: Kaitō Kid"
+      },
+      {
+        "id": "kitsu:210:889",
+        "title": "The New Teacher's Skeleton Case (Part One) ★Main Plot",
+        "season": 9,
+        "episode": 889,
+        "overview": "Introduces Wakasa Rumi.\n\n• Manga 966-968 · V91F7-9\n• Focus: Wakasa Rumi"
+      },
+      {
+        "id": "kitsu:210:890",
+        "title": "The New Teacher's Skeleton Case (Part Two) ★Main Plot",
+        "season": 9,
+        "episode": 890,
+        "overview": "Introduces Wakasa Rumi.\n\n• Manga 966-968 · V91F7-9\n• Focus: Wakasa Rumi"
+      },
+      {
+        "id": "kitsu:210:894",
+        "title": "The Tokyo-Style Detective Show Next Door (Part One) ★Main Plot",
+        "season": 9,
+        "episode": 894,
+        "overview": "Introduces Wakita Kanenori.\n\n• Manga 975-977 · V92F5-7\n• Focus: Wakita Kanenori"
+      },
+      {
+        "id": "kitsu:210:895",
+        "title": "The Tokyo-Style Detective Show Next Door (Part Two) ★Main Plot",
+        "season": 9,
+        "episode": 895,
+        "overview": "Introduces Wakita Kanenori.\n\n• Manga 975-977 · V92F5-7\n• Focus: Wakita Kanenori"
+      },
+      {
+        "id": "kitsu:210:896",
+        "title": "The Woman With White Hands (Part One) ★Main Plot",
+        "season": 9,
+        "episode": 896,
+        "overview": "Rumi-sensei development.\n\n• Manga 978-980 · V92F8-10\n• Focus: Rumi-sensei"
+      },
+      {
+        "id": "kitsu:210:897",
+        "title": "The Woman With White Hands (Part Two) ★Main Plot",
+        "season": 9,
+        "episode": 897,
+        "overview": "Rumi-sensei development.\n\n• Manga 978-980 · V92F8-10\n• Focus: Rumi-sensei"
+      },
+      {
+        "id": "kitsu:210:909",
+        "title": "Mystery of the Burning Tent (Part One) ★Main Plot",
+        "season": 10,
+        "episode": 909,
+        "overview": "Kuroda and Rumi-sensei development.\n\n• Manga 987-989 · V93F6-8\n• Focus: Kuroda, Rumi-sensei"
+      },
+      {
+        "id": "kitsu:210:910",
+        "title": "Mystery of the Burning Tent, Part Two ★Main Plot",
+        "season": 10,
+        "episode": 910,
+        "overview": "Kuroda and Rumi-sensei development.\n\n• Manga 987-989 · V93F6-8\n• Focus: Kuroda, Rumi-sensei"
+      },
+      {
+        "id": "kitsu:210:916",
+        "title": "Kendo Tournament of Love and Mystery (Part One)",
+        "season": 10,
+        "episode": 916,
+        "overview": "Heiji case.\n\n• Manga 990-993 · V93F9-V94F1\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:917",
+        "title": "Kendo Tournament of Love and Mystery (Part Two)",
+        "season": 10,
+        "episode": 917,
+        "overview": "Heiji case.\n\n• Manga 990-993 · V93F9-V94F1\n• Focus: Heiji\n\n▶ Watch Movie 21 — The Crimson Love Letter next"
+      },
+      {
+        "id": "kitsu:210:919",
+        "title": "The High School Girl Trio's Secret Café (Part One)",
+        "season": 10,
+        "episode": 919,
+        "overview": "Setup. Slight Amuro development.\n\n• Manga 994-999 · V94F2-7\n• Focus: Amuro"
+      },
+      {
+        "id": "kitsu:210:920",
+        "title": "The High School Girl Trio's Secret Café (Part Two)",
+        "season": 10,
+        "episode": 920,
+        "overview": "Setup. Slight Amuro development.\n\n• Manga 994-999 · V94F2-7\n• Focus: Amuro"
+      },
+      {
+        "id": "kitsu:210:925",
+        "title": "The Heartfelt Strap (Part One)",
+        "season": 10,
+        "episode": 925,
+        "overview": "Setup. Slight Amuro development.\n\n• Manga 994-999 · V94F2-7\n• Focus: Amuro"
+      },
+      {
+        "id": "kitsu:210:926",
+        "title": "The Heartfelt Strap (Part Two)",
+        "season": 10,
+        "episode": 926,
+        "overview": "Setup. Slight Amuro development.\n\n• Manga 994-999 · V94F2-7\n• Focus: Amuro"
+      },
+      {
+        "id": "kitsu:210:927",
+        "title": "The Scarlet School Trip (Bright Red Arc) ★Main Plot",
+        "season": 10,
+        "episode": 927,
+        "overview": "“Scarlet School Trip”—Shinichi case. Main character development. Also some Sera Masumi and Mary development.\n\n• Manga 1000-1005 · V94F8-V95F2\n• Focus: Shinichi, Sera Masumi, Mary"
+      },
+      {
+        "id": "kitsu:210:928",
+        "title": "The Scarlet School Trip (Red Love Arc) ★Main Plot",
+        "season": 10,
+        "episode": 928,
+        "overview": "“Scarlet School Trip”—Shinichi case. Main character development. Also some Sera Masumi and Mary development.\n\n• Manga 1000-1005 · V94F8-V95F2\n• Focus: Shinichi, Sera Masumi, Mary"
+      },
+      {
+        "id": "kitsu:210:941",
+        "title": "Find Maria-chan! (Part One) ★Main Plot",
+        "season": 10,
+        "episode": 941,
+        "overview": "Followup from the previous case. Some slight Kuroda, Rumi-sensei, and Wakita development. Black Organization development.\n\n• Manga 1006-1008 · V95F3-5\n• Focus: Kuroda, Rumi-sensei, Wakita, Black Organization"
+      },
+      {
+        "id": "kitsu:210:942",
+        "title": "Find Maria-chan! (Part 2) ★Main Plot",
+        "season": 10,
+        "episode": 942,
+        "overview": "Followup from the previous case. Some slight Kuroda, Rumi-sensei, and Wakita development. Black Organization development.\n\n• Manga 1006-1008 · V95F3-5\n• Focus: Kuroda, Rumi-sensei, Wakita, Black Organization\n\n▶ Watch Movie 22 — Zero the Enforcer next"
+      },
+      {
+        "id": "kitsu:210:952",
+        "title": "The Unsolved Cocktail Case (Part 1) ★Main Plot",
+        "season": 10,
+        "episode": 952,
+        "overview": "Amuro development.\n\n• Manga 1009-1012 · V95F6-9\n• Focus: Amuro"
+      },
+      {
+        "id": "kitsu:210:953",
+        "title": "The Unsolved Cocktail Case (Part Two) ★Main Plot",
+        "season": 10,
+        "episode": 953,
+        "overview": "Amuro development.\n\n• Manga 1009-1012 · V95F6-9\n• Focus: Amuro"
+      },
+      {
+        "id": "kitsu:210:954",
+        "title": "The Unsolved Cocktail Case (Part Three) ★Main Plot",
+        "season": 10,
+        "episode": 954,
+        "overview": "Amuro development.\n\n• Manga 1009-1012 · V95F6-9\n• Focus: Amuro"
+      },
+      {
+        "id": "kitsu:210:971",
+        "title": "MPD Transportation Department (Part One) ★Main Plot",
+        "season": 10,
+        "episode": 971,
+        "overview": "Detective Chiba and Miike development. Kuroda development. Amuro development. Plus a development for Yumi and Shūkichi in the background.\n\n• Manga 1013-1017 · V95F10-V96F3\n• Focus: Detective Chiba, Miike, Kuroda, Amuro, Yumi, Shūkichi"
+      },
+      {
+        "id": "kitsu:210:972",
+        "title": "MPD Transportation Department (Part Two) ★Main Plot",
+        "season": 10,
+        "episode": 972,
+        "overview": "Detective Chiba and Miike development. Kuroda development. Amuro development. Plus a development for Yumi and Shūkichi in the background.\n\n• Manga 1013-1017 · V95F10-V96F3\n• Focus: Detective Chiba, Miike, Kuroda, Amuro, Yumi, Shūkichi"
+      },
+      {
+        "id": "kitsu:210:973",
+        "title": "MPD Transportation Department (Part Three) ★Main Plot",
+        "season": 10,
+        "episode": 973,
+        "overview": "Detective Chiba and Miike development. Kuroda development. Amuro development. Plus a development for Yumi and Shūkichi in the background.\n\n• Manga 1013-1017 · V95F10-V96F3\n• Focus: Detective Chiba, Miike, Kuroda, Amuro, Yumi, Shūkichi"
+      },
+      {
+        "id": "kitsu:210:974",
+        "title": "MPD Transportation Department (Part Four) ★Main Plot",
+        "season": 10,
+        "episode": 974,
+        "overview": "Detective Chiba and Miike development. Kuroda development. Amuro development. Plus a development for Yumi and Shūkichi in the background.\n\n• Manga 1013-1017 · V95F10-V96F3\n• Focus: Detective Chiba, Miike, Kuroda, Amuro, Yumi, Shūkichi"
+      },
+      {
+        "id": "kitsu:210:983",
+        "title": "Kid vs. Komei the Targeted Lips (Part One) ★Main Plot",
+        "season": 10,
+        "episode": 983,
+        "overview": "Heiji case, Kaitō Kid, Morofushi development, Amuro development, and Hiromitsu development.\n\n• Manga 1018-1021 · V96F4-7\n• Focus: Heiji, Kaitō Kid, Morofushi, Amuro, Hiromitsu"
+      },
+      {
+        "id": "kitsu:210:984",
+        "title": "Kid vs. Komei: The Targeted Lips (Part Two) ★Main Plot",
+        "season": 10,
+        "episode": 984,
+        "overview": "Heiji case, Kaitō Kid, Morofushi development, Amuro development, and Hiromitsu development.\n\n• Manga 1018-1021 · V96F4-7\n• Focus: Heiji, Kaitō Kid, Morofushi, Amuro, Hiromitsu"
+      },
+      {
+        "id": "kitsu:210:993",
+        "title": "Kyogoku Makoto the Understudy (Part One) ★Main Plot",
+        "season": 10,
+        "episode": 993,
+        "overview": "Sera Masumi development. Also, Makoto is around.\n\n• Manga 1022-1026 · V96F8-V97F1\n• Focus: Sera Masumi, Makoto"
+      },
+      {
+        "id": "kitsu:210:994",
+        "title": "Kyogoku Makoto the Understudy (Part Two) ★Main Plot",
+        "season": 10,
+        "episode": 994,
+        "overview": "Sera Masumi development. Also, Makoto is around.\n\n• Manga 1022-1026 · V96F8-V97F1\n• Focus: Sera Masumi, Makoto"
+      },
+      {
+        "id": "kitsu:210:995",
+        "title": "Kyogoku Makoto the Understudy (Part Three) ★Main Plot",
+        "season": 10,
+        "episode": 995,
+        "overview": "Sera Masumi development. Also, Makoto is around.\n\n• Manga 1022-1026 · V96F8-V97F1\n• Focus: Sera Masumi, Makoto"
+      },
+      {
+        "id": "kitsu:210:1003",
+        "title": "The 36-Cell Perfect Game (Part One)",
+        "season": 11,
+        "episode": 1003,
+        "overview": "Hiromitsu and Wakita development.\n\n• Manga 1027-1031 · V97F2-6\n• Focus: Hiromitsu, Wakita"
+      },
+      {
+        "id": "kitsu:210:1004",
+        "title": "The 36-Cell Perfect Game (Part Two)",
+        "season": 11,
+        "episode": 1004,
+        "overview": "Hiromitsu and Wakita development.\n\n• Manga 1027-1031 · V97F2-6\n• Focus: Hiromitsu, Wakita"
+      },
+      {
+        "id": "kitsu:210:1005",
+        "title": "The 36-Cell Perfect Game (Part Three)",
+        "season": 11,
+        "episode": 1005,
+        "overview": "Hiromitsu and Wakita development.\n\n• Manga 1027-1031 · V97F2-6\n• Focus: Hiromitsu, Wakita\n\n▶ Watch Movie 23 — The Fist of Blue Sapphire next"
+      },
+      {
+        "id": "kitsu:210:1011",
+        "title": "Picking Wild Plants and Clovers (Part One) ★Main Plot",
+        "season": 11,
+        "episode": 1011,
+        "overview": "Rumi-sensei development.\n\n• Manga 1032-1034 · V97F7-9\n• Focus: Rumi-sensei"
+      },
+      {
+        "id": "kitsu:210:1012",
+        "title": "Picking Wild Plants and Clovers (Part Two) ★Main Plot",
+        "season": 11,
+        "episode": 1012,
+        "overview": "Rumi-sensei development.\n\n• Manga 1032-1034 · V97F7-9\n• Focus: Rumi-sensei"
+      },
+      {
+        "id": "kitsu:210:1018",
+        "title": "The Antique Tray Can't Be Hidden (Part One) ★Main Plot",
+        "season": 11,
+        "episode": 1018,
+        "overview": "Subaru, Sera Masumi and Mary development.\n\n• Manga 1035-1038 · V97F10-V98F2\n• Focus: Subaru, Sera Masumi, Mary"
+      },
+      {
+        "id": "kitsu:210:1019",
+        "title": "The Antique Tray Can't Be Hidden (Part Two) ★Main Plot",
+        "season": 11,
+        "episode": 1019,
+        "overview": "Subaru, Sera Masumi and Mary development.\n\n• Manga 1035-1038 · V97F10-V98F2\n• Focus: Subaru, Sera Masumi, Mary"
+      },
+      {
+        "id": "kitsu:210:1020",
+        "title": "The Antique Tray Can't Be Hidden (Part Three) ★Main Plot",
+        "season": 11,
+        "episode": 1020,
+        "overview": "Subaru, Sera Masumi and Mary development.\n\n• Manga 1035-1038 · V97F10-V98F2\n• Focus: Subaru, Sera Masumi, Mary"
+      },
+      {
+        "id": "kitsu:210:1024",
+        "title": "Ooka Momiji's Challenge (Part One) ★Main Plot",
+        "season": 11,
+        "episode": 1024,
+        "overview": "Heiji case. Haneda Kōji development.\n\n• Manga 1039-1042 · V98F3-6\n• Focus: Heiji, Haneda Kōji"
+      },
+      {
+        "id": "kitsu:210:1025",
+        "title": "Ooka Momiji's Challenge (Part Two) ★Main Plot",
+        "season": 11,
+        "episode": 1025,
+        "overview": "Heiji case. Haneda Kōji development.\n\n• Manga 1039-1042 · V98F3-6\n• Focus: Heiji, Haneda Kōji"
+      },
+      {
+        "id": "kitsu:210:1033",
+        "title": "Taiko Meijin's Shogi Board (Opening Move)",
+        "season": 11,
+        "episode": 1033,
+        "overview": "Shūkichi, Yumi, Shūichi, and Mary development.\n\n• Manga 1043-1046 · V98F7-10\n• Focus: Shūkichi, Yumi, Shūichi, Mary"
+      },
+      {
+        "id": "kitsu:210:1034",
+        "title": "Taiko Meijin's Shogi Board (Brilliant Move)",
+        "season": 11,
+        "episode": 1034,
+        "overview": "Shūkichi, Yumi, Shūichi, and Mary development.\n\n• Manga 1043-1046 · V98F7-10\n• Focus: Shūkichi, Yumi, Shūichi, Mary"
+      },
+      {
+        "id": "kitsu:210:1035",
+        "title": "Taiko Meijin's Shogi Board (Checkmate)",
+        "season": 11,
+        "episode": 1035,
+        "overview": "Shūkichi, Yumi, Shūichi, and Mary development.\n\n• Manga 1043-1046 · V98F7-10\n• Focus: Shūkichi, Yumi, Shūichi, Mary"
+      },
+      {
+        "id": "kitsu:210:1045",
+        "title": "The Birthday Party of Divine Punishment (Part One) ★Main Plot",
+        "season": 11,
+        "episode": 1045,
+        "overview": "Sera Masumi and Mary development and some Black Organization.\n\n• Manga 1047-1050 · V98F11-V99F3\n• Focus: Sera Masumi, Mary, Black Organization"
+      },
+      {
+        "id": "kitsu:210:1046",
+        "title": "The Birthday Party of Divine Punishment (Part Two) ★Main Plot",
+        "season": 11,
+        "episode": 1046,
+        "overview": "Sera Masumi and Mary development and some Black Organization.\n\n• Manga 1047-1050 · V98F11-V99F3\n• Focus: Sera Masumi, Mary, Black Organization\n\n▶ Watch Movie 24 — The Scarlet Bullet next"
+      },
+      {
+        "id": "kitsu:210:1053",
+        "title": "The Spark That Fell on the Ranch (Part 1) ★Main Plot",
+        "season": 11,
+        "episode": 1053,
+        "overview": "Rumi development.\n\n• Manga 1051-1054 · V99F4-7\n• Focus: Rumi"
+      },
+      {
+        "id": "kitsu:210:1054",
+        "title": "The Spark That Fell on the Ranch (Part 2) ★Main Plot",
+        "season": 11,
+        "episode": 1054,
+        "overview": "Rumi development.\n\n• Manga 1051-1054 · V99F4-7\n• Focus: Rumi"
+      },
+      {
+        "id": "kitsu:210:1059",
+        "title": "Yoko Okino and the Locked Attic (Part 1) ★Main Plot",
+        "season": 11,
+        "episode": 1059,
+        "overview": "Wakita development.\n\n• Manga 1055-1057 · V99F8-10\n• Focus: Wakita"
+      },
+      {
+        "id": "kitsu:210:1060",
+        "title": "Yoko Okino and the Locked Attic (Part 2) ★Main Plot",
+        "season": 11,
+        "episode": 1060,
+        "overview": "Wakita development.\n\n• Manga 1055-1057 · V99F8-10\n• Focus: Wakita"
+      },
+      {
+        "id": "kitsu:210:1071",
+        "title": "Yusaku Kudo's Detective Show (Part 1) ★Main Plot",
+        "season": 11,
+        "episode": 1071,
+        "overview": "Kaitō Kid.\n\n• Manga 1058-1060 · V99F11-V100F2\n• Focus: Kaitō Kid"
+      },
+      {
+        "id": "kitsu:210:1072",
+        "title": "Yusaku Kudo's Detective Show (Part 2) ★Main Plot",
+        "season": 11,
+        "episode": 1072,
+        "overview": "Kaitō Kid.\n\n• Manga 1058-1060 · V99F11-V100F2\n• Focus: Kaitō Kid"
+      },
+      {
+        "id": "kitsu:210:1077",
+        "title": "The Black Organization's Scheme (Hunt) ★Main Plot",
+        "season": 11,
+        "episode": 1077,
+        "overview": "“The Black Organization’s Scheme”\n\n• Manga 1061-1066 · V100F3-8"
+      },
+      {
+        "id": "kitsu:210:1078",
+        "title": "The Black Organization's Scheme (Landing) ★Main Plot",
+        "season": 11,
+        "episode": 1078,
+        "overview": "“The Black Organization’s Scheme”\n\n• Manga 1061-1066 · V100F3-8"
+      },
+      {
+        "id": "kitsu:210:1079",
+        "title": "The Black Organization's Scheme (Identity) ★Main Plot",
+        "season": 11,
+        "episode": 1079,
+        "overview": "“The Black Organization’s Scheme”\n\n• Manga 1061-1066 · V100F3-8"
+      },
+      {
+        "id": "kitsu:210:1085",
+        "title": "The Inauspicious Matchmaking (Part 1)",
+        "season": 11,
+        "episode": 1085,
+        "overview": "Heiji case.\n\n• Manga 1067-1069 · V100F9-11\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:1086",
+        "title": "The Inauspicious Matchmaking (Part 2)",
+        "season": 11,
+        "episode": 1086,
+        "overview": "Heiji case.\n\n• Manga 1067-1069 · V100F9-11\n• Focus: Heiji"
+      },
+      {
+        "id": "kitsu:210:1093",
+        "title": "Akemi Miyano's Time Capsule (Part 1) ★Main Plot",
+        "season": 11,
+        "episode": 1093,
+        "overview": "Haibara and Rumi development.\n\n• Manga 1070-1072 · V101F1-3\n• Focus: Haibara, Rumi"
+      },
+      {
+        "id": "kitsu:210:1094",
+        "title": "Akemi Miyano's Time Capsule (Part 2) ★Main Plot",
+        "season": 11,
+        "episode": 1094,
+        "overview": "Haibara and Rumi development.\n\n• Manga 1070-1072 · V101F1-3\n• Focus: Haibara, Rumi"
+      },
+      {
+        "id": "kitsu:210:1098",
+        "title": "Chihaya Hagiwara, Goddess of the Wind (Part 1)",
+        "season": 11,
+        "episode": 1098,
+        "overview": "Introduces Hagiwara Chihaya.\n\n• Manga 1073-1075 · V101F4-6\n• Focus: Hagiwara Chihaya"
+      },
+      {
+        "id": "kitsu:210:1099",
+        "title": "Chihaya Hagiwara, Goddess of the Wind (Part 2)",
+        "season": 11,
+        "episode": 1099,
+        "overview": "Introduces Hagiwara Chihaya.\n\n• Manga 1073-1075 · V101F4-6\n• Focus: Hagiwara Chihaya"
+      },
+      {
+        "id": "kitsu:210:1105",
+        "title": "Kid vs. Amuro: Queen's Bang (Part 1)",
+        "season": 12,
+        "episode": 1105,
+        "overview": "Kaitō Kid.\n\n• Manga 1076-1078 · V101F7-9\n• Focus: Kaitō Kid"
+      },
+      {
+        "id": "kitsu:210:1106",
+        "title": "Kid vs. Amuro: Queen's Bang (Part 2)",
+        "season": 12,
+        "episode": 1106,
+        "overview": "Kaitō Kid.\n\n• Manga 1076-1078 · V101F7-9\n• Focus: Kaitō Kid"
+      },
+      {
+        "id": "kitsu:210:1109",
+        "title": "Takagi and Date and the Notebook Promise (Part 1)",
+        "season": 12,
+        "episode": 1109,
+        "overview": "Takagi development.\n\n• Manga 1079-1081 · V101F10-V102F1\n• Focus: Takagi"
+      },
+      {
+        "id": "kitsu:210:1110",
+        "title": "Takagi and Date and the Notebook Promise (Part 2)",
+        "season": 12,
+        "episode": 1110,
+        "overview": "Takagi development.\n\n• Manga 1079-1081 · V101F10-V102F1\n• Focus: Takagi"
+      },
+      {
+        "id": "kitsu:210:1115",
+        "title": "Chihaya and Jugo's Matchmaking Party (Part 1)",
+        "season": 12,
+        "episode": 1115,
+        "overview": "Hagiwara Chihaya development.\n\n• Manga 1085-1087 · V102F5-7\n• Focus: Hagiwara Chihaya"
+      },
+      {
+        "id": "kitsu:210:1116",
+        "title": "Chihaya and Jugo's Matchmaking Party (Part 2)",
+        "season": 12,
+        "episode": 1116,
+        "overview": "Hagiwara Chihaya development.\n\n• Manga 1085-1087 · V102F5-7\n• Focus: Hagiwara Chihaya"
+      },
+      {
+        "id": "kitsu:210:1135",
+        "title": "Momiji Ooka's Sweet Trap (Part 1) ★Main Plot",
+        "season": 12,
+        "episode": 1135,
+        "overview": "Heiji case. Kuroda development.\n\n• Manga 1088-1090 · V102F8-10\n• Focus: Heiji, Kuroda"
+      },
+      {
+        "id": "kitsu:210:1136",
+        "title": "Momiji Ooka's Sweet Trap (Part 2) ★Main Plot",
+        "season": 12,
+        "episode": 1136,
+        "overview": "Heiji case. Kuroda development.\n\n• Manga 1088-1090 · V102F8-10\n• Focus: Heiji, Kuroda\n\n▶ Watch Movie 25 — The Bride of Halloween next"
+      }
+    ]
+  }
+}
