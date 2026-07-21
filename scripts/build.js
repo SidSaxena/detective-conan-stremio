@@ -4,6 +4,7 @@ import { buildVideos } from '../src/episodes.js';
 import { validateNumbering } from '../src/validate.js';
 import { resolveMovies, buildMovieItems } from '../src/movies.js';
 import { fetchAllEpisodeTitles } from '../src/kitsu.js';
+import { fetchAllMalTitles } from '../src/mal.js';
 import * as gen from '../src/generate.js';
 
 const html = await readFile('data/raw/xerblade.html', 'utf8');
@@ -18,12 +19,17 @@ if (report.outOfRange.length) console.log('OUT OF RANGE:', report.outOfRange);
 console.log('Boundary sample (eyeball a few against XerBlade):');
 for (const s of report.sampleTitles.slice(0, 12)) console.log(`  ${s.number}: ${s.kitsuTitle}`);
 
-const titles = await fetchAllEpisodeTitles();
-console.log(`Kitsu titles fetched: ${titles.size}`);
-
+const kitsuTitles = await fetchAllEpisodeTitles();
+console.log(`Kitsu titles fetched: ${kitsuTitles.size}`);
+const malTitles = await fetchAllMalTitles();
+console.log(`MAL titles fetched: ${malTitles.size}`);
+const titles = new Map(malTitles);          // MAL as base...
+for (const [n, t] of kitsuTitles) titles.set(n, t);  // ...Kitsu overrides where present
 const videos = buildVideos(episodes, titles);
-const missing = videos.filter(v => !titles.has(v.episode)).length;
-console.log(`Curated episodes without a Kitsu title (fell back to arc/number): ${missing}`);
+const curatedNums = videos.map((v) => v.episode);
+const backfilled = curatedNums.filter((n) => !kitsuTitles.has(n) && malTitles.has(n)).length;
+const stillMissing = curatedNums.filter((n) => !titles.has(n)).length;
+console.log(`Titles: ${backfilled} curated episodes backfilled from MAL; ${stillMissing} still without a title (fell back to arc/number).`);
 
 const resolved = await resolveMovies(movies);
 const unresolved = resolved.filter(m => !m.imdbId);
